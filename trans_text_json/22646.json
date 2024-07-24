@@ -1,0 +1,145 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「そういえば、恵は何しにここへ来たんだ？　用事でもあったんじゃないのか？」",
+    "post_jp": "そういえば、恵は何しにここへ来たんだ？　用事でもあったんじゃないのか？",
+    "pre_zh": "说起来，惠来这里是为了什么？是不是有什么事？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「说起来，惠来这里是为了什么？是不是有什么事？」"
+  },
+  {
+    "index": 2,
+    "name": "恵",
+    "pre_jp": "「ええ、まあ・・・下で呼んでたから。みんな集まれって」",
+    "post_jp": "ええ、まあ・・・下で呼んでたから。みんな集まれって",
+    "pre_zh": "嗯，这个嘛……楼下在叫人。说是让大家都集合",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯，这个嘛……楼下在叫人。说是让大家都集合」"
+  },
+  {
+    "index": 3,
+    "name": "恭介",
+    "pre_jp": "「・・・なに？　どうしてそれを先に言わないんだ！」",
+    "post_jp": "・・・なに？　どうしてそれを先に言わないんだ！",
+    "pre_zh": "……什么？为什么不早说！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……什么？为什么不早说！」"
+  },
+  {
+    "index": 4,
+    "name": "恵",
+    "pre_jp": "「だって、こっちの方が面白そうだったから」",
+    "post_jp": "だって、こっちの方が面白そうだったから",
+    "pre_zh": "因为，这边看起来更有意思嘛",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「因为，这边看起来更有意思嘛」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "ぺろりと舌を出す恵の表情は、仕草の可愛らしさとは裏腹に妙な色気があって・・・それ以上問い詰める気を失わせる。",
+    "post_jp": "ぺろりと舌を出す恵の表情は、仕草の可愛らしさとは裏腹に妙な色気があって・・・それ以上問い詰める気を失わせる。",
+    "pre_zh": "惠吐了吐舌头，她的表情虽然动作可爱，却又带着一种奇妙的色气……让人失去了继续追问的欲望。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "惠吐了吐舌头，她的表情虽然动作可爱，却又带着一种奇妙的色气……让人失去了继续追问的欲望。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "俺は額に手を当てて天井を見上げ、すぐに気分を入れ替えた。ガンケースを金庫に放り込み、二人を促して貴賓室を後にする。",
+    "post_jp": "俺は額に手を当てて天井を見上げ、すぐに気分を入れ替えた。ガンケースを金庫に放り込み、二人を促して貴賓室を後にする。",
+    "pre_zh": "用手扶着额头仰望天花板，很快就调整好了心情。将枪盒扔进保险箱，催促两人一起离开贵宾室。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "用手扶着额头仰望天花板，很快就调整好了心情。将枪盒扔进保险箱，催促两人一起离开贵宾室。"
+  },
+  {
+    "index": 7,
+    "name": "恭介",
+    "pre_jp": "「あ・・・っと」",
+    "post_jp": "あ・・・っと",
+    "pre_zh": "啊……对了",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊……对了」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "金の針が出しっぱなしだった。",
+    "post_jp": "金の針が出しっぱなしだった。",
+    "pre_zh": "金针还露在外面。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "金针还露在外面。"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "俺は厳重に密封された金の針を拾い上げ、ガンケースと同じく金庫の中に放り込もうとして、ふと思い直す。",
+    "post_jp": "俺は厳重に密封された金の針を拾い上げ、ガンケースと同じく金庫の中に放り込もうとして、ふと思い直す。",
+    "pre_zh": "拾起严密封存的金针，正要像枪盒一样扔进保险箱，突然改变了主意。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "拾起严密封存的金针，正要像枪盒一样扔进保险箱，突然改变了主意。"
+  },
+  {
+    "index": 10,
+    "name": "",
+    "pre_jp": "役に立つような代物とは思えないが、持ち歩いて邪魔になるようなものでもないだろう。",
+    "post_jp": "役に立つような代物とは思えないが、持ち歩いて邪魔になるようなものでもないだろう。",
+    "pre_zh": "虽然看不出有什么用处，但随身携带也不会碍事吧。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "虽然看不出有什么用处，但随身携带也不会碍事吧。"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "手の中で金の針をもてあそぶ。さて、どうしたものか。",
+    "post_jp": "手の中で金の針をもてあそぶ。さて、どうしたものか。",
+    "pre_zh": "在手中把玩着金针。那么，该怎么办呢。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "在手中把玩着金针。那么，该怎么办呢。"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "持って行く",
+    "post_jp": "持って行く",
+    "pre_zh": "带走",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "带走"
+  },
+  {
+    "index": 13,
+    "name": "",
+    "pre_jp": "置いていく",
+    "post_jp": "置いていく",
+    "pre_zh": "留下",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "留下"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "そういえば、何かちはやに用があったような・・・。",
+    "post_jp": "そういえば、何かちはやに用があったような・・・。",
+    "pre_zh": "说起来，好像有什么事要找千早...",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "说起来，好像有什么事要找千早…"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "ベッドに寝転がろうとして、ポケットの中の堅い感触に気づく。手を入れると、可憐から受け取ったプラチナリングが指先に触れた。",
+    "post_jp": "ベッドに寝転がろうとして、ポケットの中の堅い感触に気づく。手を入れると、可憐から受け取ったプラチナリングが指先に触れた。",
+    "pre_zh": "正准备躺到床上，感觉到口袋里有硬硬的触感。伸手进去，指尖触碰到了从可怜那里收到的铂金戒指。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "正准备躺到床上，感觉到口袋里有硬硬的触感。伸手进去，指尖触碰到了从可怜那里收到的铂金戒指。"
+  },
+  {
+    "index": 3,
+    "name": "ちはや",
+    "pre_jp": "「お兄ちゃん？」",
+    "post_jp": "お兄ちゃん？",
+    "pre_zh": "哥哥？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「哥哥？」"
+  },
+  {
+    "index": 4,
+    "name": "恭介",
+    "pre_jp": "「いや、何でもない」",
+    "post_jp": "いや、何でもない",
+    "pre_zh": "啊，没什么",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊，没什么」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "渡すのは後でもいいか。",
+    "post_jp": "渡すのは後でもいいか。",
+    "pre_zh": "待会再给她也行吧。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "待会再给她也行吧。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "パーティーのこともまだ言っていない。俺は指輪をポケットの奥深くに沈めた。",
+    "post_jp": "パーティーのこともまだ言っていない。俺は指輪をポケットの奥深くに沈めた。",
+    "pre_zh": "派对的事也还没说。把戒指深深地塞进了口袋深处。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "派对的事也还没说。把戒指深深地塞进了口袋深处。"
+  }
+]

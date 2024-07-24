@@ -1,0 +1,178 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「どうなってやがるんだ・・・」",
+    "post_jp": "どうなってやがるんだ・・・",
+    "pre_zh": "这是怎么回事啊……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「这是怎么回事啊……」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "鍵が閉まってるのか？",
+    "post_jp": "鍵が閉まってるのか？",
+    "pre_zh": "是门锁上了吗？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "是门锁上了吗？"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "俺は無意識に鍵穴を覗き込み、そこが妙にてらてらした皮膜に覆われていることに気づく。",
+    "post_jp": "俺は無意識に鍵穴を覗き込み、そこが妙にてらてらした皮膜に覆われていることに気づく。",
+    "pre_zh": "不自觉地凑近钥匙孔查看，发现那里被一层奇怪的光滑薄膜覆盖着。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "不自觉地凑近钥匙孔查看，发现那里被一层奇怪的光滑薄膜覆盖着。"
+  },
+  {
+    "index": 4,
+    "name": "恭介",
+    "pre_jp": "「もしかして・・・やっぱりだ。おい、これ接着剤で埋められてるぞ」",
+    "post_jp": "もしかして・・・やっぱりだ。おい、これ接着剤で埋められてるぞ",
+    "pre_zh": "难道说……果然如此。喂，这里被胶水填满了",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「难道说……果然如此。喂，这里被胶水填满了」"
+  },
+  {
+    "index": 5,
+    "name": "珠美",
+    "pre_jp": "「なぬ？」",
+    "post_jp": "なぬ？",
+    "pre_zh": "啥？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啥？」"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "わざわざこちらに飛んでくる珠美に、他のドアを指さす。",
+    "post_jp": "わざわざこちらに飛んでくる珠美に、他のドアを指さす。",
+    "pre_zh": "对特意飞奔过来的珠美指了指其他的门。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "对特意飞奔过来的珠美指了指其他的门。"
+  },
+  {
+    "index": 7,
+    "name": "恭介",
+    "pre_jp": "「他も見てくれ。可憐も」",
+    "post_jp": "他も見てくれ。可憐も",
+    "pre_zh": "也看看其他的。可怜也是",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「也看看其他的。可怜也是」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "綾之部姉妹はそれぞれ別の鍵穴に取りつく。二人して顔をしかめて鍵穴を凝視する。",
+    "post_jp": "綾之部姉妹はそれぞれ別の鍵穴に取りつく。二人して顔をしかめて鍵穴を凝視する。",
+    "pre_zh": "绫之部姐妹分别查看不同的钥匙孔。两人都皱着眉头仔细观察钥匙孔。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "绫之部姐妹分别查看不同的钥匙孔。两人都皱着眉头仔细观察钥匙孔。"
+  },
+  {
+    "index": 9,
+    "name": "可憐",
+    "pre_jp": "「あ、ここも！」",
+    "post_jp": "あ、ここも！",
+    "pre_zh": "啊，这里也是！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊，这里也是！」"
+  },
+  {
+    "index": 10,
+    "name": "珠美",
+    "pre_jp": "「がっちり中まで埋まってる！」",
+    "post_jp": "がっちり中まで埋まってる！",
+    "pre_zh": "里面被塞得严严实实的！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「里面被塞得严严实实的！」"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "手分けしてさらに調べてみる。３Ｆの廊下に面して並ぶすべての船室が、鍵穴を接着剤で埋められていた。",
+    "post_jp": "手分けしてさらに調べてみる。３Ｆの廊下に面して並ぶすべての船室が、鍵穴を接着剤で埋められていた。",
+    "pre_zh": "分头进一步调查。3楼走廊上所有船舱的钥匙孔都被胶水填满了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "分头进一步调查。3楼走廊上所有船舱的钥匙孔都被胶水填满了。"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "何にせよオートロックでもないドアが開かないということは、鍵を掛けて回ったということだ。",
+    "post_jp": "何にせよオートロックでもないドアが開かないということは、鍵を掛けて回ったということだ。",
+    "pre_zh": "无论如何，门没有自动锁定却打不开，说明有人特意锁上了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "无论如何，门没有自动锁定却打不开，说明有人特意锁上了。"
+  },
+  {
+    "index": 13,
+    "name": "",
+    "pre_jp": "すべての船室の鍵を奴が持っているとは考えにくい。つまり、奴はマスターキーを持っているということか。",
+    "post_jp": "すべての船室の鍵を奴が持っているとは考えにくい。つまり、奴はマスターキーを持っているということか。",
+    "pre_zh": "那家伙不太可能拥有所有船舱的钥匙。也就是说，他手里有万能钥匙吗？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "那家伙不太可能拥有所有船舱的钥匙。也就是说，他手里有万能钥匙吗？"
+  },
+  {
+    "index": 14,
+    "name": "",
+    "pre_jp": "そうなると、俺が受け取ったマスターキーは真っ赤な偽物だということか。",
+    "post_jp": "そうなると、俺が受け取ったマスターキーは真っ赤な偽物だということか。",
+    "pre_zh": "如果是这样，拿到的万能钥匙岂不是彻头彻尾的赝品？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "如果是这样，拿到的万能钥匙岂不是彻头彻尾的赝品？"
+  },
+  {
+    "index": 15,
+    "name": "",
+    "pre_jp": "マスターキーの実物なんて見たことないから、すっかりだまされた。",
+    "post_jp": "マスターキーの実物なんて見たことないから、すっかりだまされた。",
+    "pre_zh": "从没见过真正的万能钥匙，完全被骗了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "从没见过真正的万能钥匙，完全被骗了。"
+  },
+  {
+    "index": 16,
+    "name": "",
+    "pre_jp": "とにかく鍵のことは今さら悔いても仕方ない。今は無事な連中を探すことが先決だ。",
+    "post_jp": "とにかく鍵のことは今さら悔いても仕方ない。今は無事な連中を探すことが先決だ。",
+    "pre_zh": "总之现在后悔钥匙的事也无济于事。当务之急是寻找安全的同伴。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "总之现在后悔钥匙的事也无济于事。当务之急是寻找安全的同伴。"
+  }
+]

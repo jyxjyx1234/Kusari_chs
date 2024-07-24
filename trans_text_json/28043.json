@@ -1,0 +1,222 @@
+[
+  {
+    "index": 1,
+    "name": "恵",
+    "pre_jp": "「恭介、信号弾があったでしょ」",
+    "post_jp": "恭介、信号弾があったでしょ",
+    "pre_zh": "恭介，不是有信号弹吗",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「恭介，不是有信号弹吗」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "やけに落ちついた声で恵が指摘する。",
+    "post_jp": "やけに落ちついた声で恵が指摘する。",
+    "pre_zh": "惠用异常冷静的声音指出。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "惠用异常冷静的声音指出。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "そうだ、すっかり忘れてた。",
+    "post_jp": "そうだ、すっかり忘れてた。",
+    "pre_zh": "对啊，完全忘记了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "对啊，完全忘记了。"
+  },
+  {
+    "index": 4,
+    "name": "恭介",
+    "pre_jp": "「えーっと、どこから開けたらいいんだ・・・」",
+    "post_jp": "えーっと、どこから開けたらいいんだ・・・",
+    "pre_zh": "呃——该从哪里打开呢……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「呃——该从哪里打开呢……」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "もたもたしているうちに珠美が俺の手から信号弾を取り上げる。",
+    "post_jp": "もたもたしているうちに珠美が俺の手から信号弾を取り上げる。",
+    "pre_zh": "正磨蹭着，珠美从手中夺过信号弹。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "正磨蹭着，珠美从手中夺过信号弹。"
+  },
+  {
+    "index": 6,
+    "name": "恭介",
+    "pre_jp": "「あっ」",
+    "post_jp": "あっ",
+    "pre_zh": "啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊」"
+  },
+  {
+    "index": 7,
+    "name": "珠美",
+    "pre_jp": "「こんなものはむしって引っぱればいいんだ！！」",
+    "post_jp": "こんなものはむしって引っぱればいいんだ！！",
+    "pre_zh": "这种东西直接撕开拉就行了！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「这种东西直接撕开拉就行了！！」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "ぶちっ。",
+    "post_jp": "ぶちっ。",
+    "pre_zh": "啪。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "啪。"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "飛んでいく発光体を、俺は呆然と見つめる。",
+    "post_jp": "飛んでいく発光体を、俺は呆然と見つめる。",
+    "pre_zh": "呆呆地望着飞向远方的发光体。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "呆呆地望着飞向远方的发光体。"
+  },
+  {
+    "index": 10,
+    "name": "恭介",
+    "pre_jp": "「本当に出たよ・・・」",
+    "post_jp": "本当に出たよ・・・",
+    "pre_zh": "真的发射出去了……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「真的发射出去了……」"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "さすがは野生の本能。",
+    "post_jp": "さすがは野生の本能。",
+    "pre_zh": "不愧是野性的本能。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "不愧是野性的本能。"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "だが、発光体は向こうの船へまっすぐ飛んでいく。",
+    "post_jp": "だが、発光体は向こうの船へまっすぐ飛んでいく。",
+    "pre_zh": "但是，发光体径直飞向对面的船。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "但是，发光体径直飞向对面的船。"
+  },
+  {
+    "index": 13,
+    "name": "珠美",
+    "pre_jp": "「うわ、当たった！？」",
+    "post_jp": "うわ、当たった！？",
+    "pre_zh": "哇，打中了？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「哇，打中了？」"
+  },
+  {
+    "index": 14,
+    "name": "恭介",
+    "pre_jp": "「そりゃ水平に撃てばな。今のでさすがに気づいてはくれただろうが」",
+    "post_jp": "そりゃ水平に撃てばな。今のでさすがに気づいてはくれただろうが",
+    "pre_zh": "那当然啦，水平发射的嘛。这下他们肯定注意到了吧",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「那当然啦，水平发射的嘛。这下他们肯定注意到了吧」"
+  },
+  {
+    "index": 15,
+    "name": "ちはや",
+    "pre_jp": "「でも海賊だと思われて逃げちゃうかも」",
+    "post_jp": "でも海賊だと思われて逃げちゃうかも",
+    "pre_zh": "但是他们可能会以为是海盗然后逃跑哦",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「但是他们可能会以为是海盗然后逃跑哦」"
+  },
+  {
+    "index": 16,
+    "name": "恭介",
+    "pre_jp": "「・・・」",
+    "post_jp": "・・・",
+    "pre_zh": "……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……」"
+  },
+  {
+    "index": 17,
+    "name": "珠美",
+    "pre_jp": "「・・・」",
+    "post_jp": "・・・",
+    "pre_zh": "……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……」"
+  },
+  {
+    "index": 18,
+    "name": "恭介",
+    "pre_jp": "「おーい、おーい！！！　今のは攻撃したわけじゃないぞーっ！！！」",
+    "post_jp": "おーい、おーい！！！　今のは攻撃したわけじゃないぞーっ！！！",
+    "pre_zh": "喂——喂——！！！刚才那个不是攻击啊——！！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「喂——喂——！！！刚才那个不是攻击啊——！！！」"
+  },
+  {
+    "index": 19,
+    "name": "珠美",
+    "pre_jp": "「なしなしなしーっ！！！　今のなしーっ！！！」",
+    "post_jp": "なしなしなしーっ！！！　今のなしーっ！！！",
+    "pre_zh": "不算不算不算——！！！刚才那个不算数——！！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「不算不算不算——！！！刚才那个不算数——！！！」"
+  },
+  {
+    "index": 20,
+    "name": "ちはや",
+    "pre_jp": "「お願いーっ！！！　助けてーっ！！！」",
+    "post_jp": "お願いーっ！！！　助けてーっ！！！",
+    "pre_zh": "拜托了——！！！救救我们——！！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「拜托了——！！！救救我们——！！！」"
+  }
+]

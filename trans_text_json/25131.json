@@ -1,0 +1,211 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "その直前、俺は長剣をひと振りした。",
+    "post_jp": "その直前、俺は長剣をひと振りした。",
+    "pre_zh": "就在那一刻，挥动了长剑。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "就在那一刻，挥动了长剑。"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "岸田は声もあげずに暗い海へ落ちていく。",
+    "post_jp": "岸田は声もあげずに暗い海へ落ちていく。",
+    "pre_zh": "岸田无声地坠入了漆黑的海中。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田无声地坠入了漆黑的海中。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "甲板には奴の指が散らばっていた。",
+    "post_jp": "甲板には奴の指が散らばっていた。",
+    "pre_zh": "甲板上散落着那家伙的手指。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "甲板上散落着那家伙的手指。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "それが精いっぱいだった。直接殺すことはできなかった。",
+    "post_jp": "それが精いっぱいだった。直接殺すことはできなかった。",
+    "pre_zh": "这已是尽力所为。无法直接杀死他。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "这已是尽力所为。无法直接杀死他。"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "だが、結果は同じことだ。ここで海に落ちて助かる確率はゼロに等しい。",
+    "post_jp": "だが、結果は同じことだ。ここで海に落ちて助かる確率はゼロに等しい。",
+    "pre_zh": "但结果是一样的。在这里落海后生还的几率几乎为零。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "但结果是一样的。在这里落海后生还的几率几乎为零。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "じきに恵も甲板に出てくる。",
+    "post_jp": "じきに恵も甲板に出てくる。",
+    "pre_zh": "恵很快也来到了甲板上。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "恵很快也来到了甲板上。"
+  },
+  {
+    "index": 7,
+    "name": "恵",
+    "pre_jp": "「殺したの・・・？」",
+    "post_jp": "殺したの・・・？",
+    "pre_zh": "杀了他……？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「杀了他……？」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "図書室から状況が見えていたのか、恵は手すりから海面を覗き見る。",
+    "post_jp": "図書室から状況が見えていたのか、恵は手すりから海面を覗き見る。",
+    "pre_zh": "似乎从图书室看到了情况，恵从栏杆处俯视着海面。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "似乎从图书室看到了情况，恵从栏杆处俯视着海面。"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "そこにはもはや岸田の存在はかけらも見あたらなかった。",
+    "post_jp": "そこにはもはや岸田の存在はかけらも見あたらなかった。",
+    "pre_zh": "那里已经看不到岸田存在的一丝痕迹。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "那里已经看不到岸田存在的一丝痕迹。"
+  },
+  {
+    "index": 10,
+    "name": "恭介",
+    "pre_jp": "「ああ」",
+    "post_jp": "ああ",
+    "pre_zh": "嗯",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯」"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "何もかも終わった。\\nやっと・・・。",
+    "post_jp": "何もかも終わった。　やっと・・・。",
+    "pre_zh": "一切都结束了。终于……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "一切都结束了。终于……"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "これまでの反動で一気に力が抜ける。手から離れた長剣が甲板でからりと音を立てた。",
+    "post_jp": "これまでの反動で一気に力が抜ける。手から離れた長剣が甲板でからりと音を立てた。",
+    "pre_zh": "之前积累的反作用力一下子让全身失去了力气。从手中滑落的长剑在甲板上发出清脆的响声。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "之前积累的反作用力一下子让全身失去了力气。从手中滑落的长剑在甲板上发出清脆的响声。"
+  },
+  {
+    "index": 13,
+    "name": "恵",
+    "pre_jp": "「・・・死んだのね」",
+    "post_jp": "・・・死んだのね",
+    "pre_zh": "……他死了吧",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……他死了吧」"
+  },
+  {
+    "index": 14,
+    "name": "",
+    "pre_jp": "恵は甲板に散らばった指を見下ろし、そう呟いた。",
+    "post_jp": "恵は甲板に散らばった指を見下ろし、そう呟いた。",
+    "pre_zh": "恵低头看着散落在甲板上的手指，喃喃自语道。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "恵低头看着散落在甲板上的手指，喃喃自语道。"
+  },
+  {
+    "index": 15,
+    "name": "恭介",
+    "pre_jp": "「・・・ああ」",
+    "post_jp": "・・・ああ",
+    "pre_zh": "……嗯",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……嗯」"
+  },
+  {
+    "index": 16,
+    "name": "恵",
+    "pre_jp": "「そう・・・」",
+    "post_jp": "そう・・・",
+    "pre_zh": "这样啊……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「这样啊……」"
+  },
+  {
+    "index": 17,
+    "name": "",
+    "pre_jp": "呪いのように、恵にまとわりついていた巨悪は消えた。",
+    "post_jp": "呪いのように、恵にまとわりついていた巨悪は消えた。",
+    "pre_zh": "如同诅咒般缠绕在恵身上的巨恶消失了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "如同诅咒般缠绕在恵身上的巨恶消失了。"
+  },
+  {
+    "index": 18,
+    "name": "",
+    "pre_jp": "それについて、恵の反応は意外と淡泊なものだった。",
+    "post_jp": "それについて、恵の反応は意外と淡泊なものだった。",
+    "pre_zh": "对此，恵的反应出乎意料地平淡。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "对此，恵的反应出乎意料地平淡。"
+  },
+  {
+    "index": 19,
+    "name": "",
+    "pre_jp": "だが、やがて恵の体はぶるぶると震えだす。",
+    "post_jp": "だが、やがて恵の体はぶるぶると震えだす。",
+    "pre_zh": "然而，不久恵的身体开始颤抖起来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "然而，不久恵的身体开始颤抖起来。"
+  }
+]

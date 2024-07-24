@@ -1,0 +1,35 @@
+[
+  {
+    "index": 1,
+    "name": "岸田",
+    "pre_jp": "「俺としては、まず小娘を仕留めたいところだがな！　小僧の方は人を殺す度胸もないから！」",
+    "post_jp": "俺としては、まず小娘を仕留めたいところだがな！　小僧の方は人を殺す度胸もないから！",
+    "pre_zh": "我呢，首先想干掉那小丫头！那小子连杀人的胆子都没有！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「我呢，首先想干掉那小丫头！那小子连杀人的胆子都没有！」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "恵の表情が強ばる。",
+    "post_jp": "恵の表情が強ばる。",
+    "pre_zh": "惠的表情变得僵硬。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "惠的表情变得僵硬。"
+  },
+  {
+    "index": 3,
+    "name": "岸田",
+    "pre_jp": "「指の礼はその後だ！」",
+    "post_jp": "指の礼はその後だ！",
+    "pre_zh": "切手指的仪式之后再说！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「切手指的仪式之后再说！」"
+  }
+]

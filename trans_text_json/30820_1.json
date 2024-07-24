@@ -1,0 +1,36 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "ラウンジへ",
+    "post_jp": "ラウンジへ",
+    "pre_zh": "前往休息室",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "前往休息室"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "図書室へ",
+    "post_jp": "図書室へ",
+    "pre_zh": "前往图书室",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "前往图书室"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "甲板へ",
+    "post_jp": "甲板へ",
+    "pre_zh": "前往甲板",
+    "proofread_zh": "",
+    "problem": "比日文长1.3倍",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "前往甲板"
+  }
+]

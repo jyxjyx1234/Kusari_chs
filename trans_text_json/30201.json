@@ -1,0 +1,46 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "さまざまな状況にも臨機応変に。そう心がけるなら、できるだけ身軽な方がいい。",
+    "post_jp": "さまざまな状況にも臨機応変に。そう心がけるなら、できるだけ身軽な方がいい。",
+    "pre_zh": "为应对各种情况灵活应变，心中谨记，越是轻装简行越好。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "为应对各种情况灵活应变，心中谨记，越是轻装简行越好。"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "俺は品々の中からロープを手にした。",
+    "post_jp": "俺は品々の中からロープを手にした。",
+    "pre_zh": "从众多物品中拿起了绳子。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "从众多物品中拿起了绳子。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "道具としてはこれが一番応用が利く。",
+    "post_jp": "道具としてはこれが一番応用が利く。",
+    "pre_zh": "作为工具，这个最为实用多变。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "作为工具，这个最为实用多变。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "武器についてはまた後で考えるとしよう。",
+    "post_jp": "武器についてはまた後で考えるとしよう。",
+    "pre_zh": "至于武器，就之后再考虑吧。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "至于武器，就之后再考虑吧。"
+  }
+]

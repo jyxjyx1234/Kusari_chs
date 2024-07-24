@@ -1,0 +1,35 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "今でも思う。",
+    "post_jp": "今でも思う。",
+    "pre_zh": "至今仍在思考。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "至今仍在思考。"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "選択を一歩間違えていれば、俺たちは今ごろどうなっていたのだろうか。",
+    "post_jp": "選択を一歩間違えていれば、俺たちは今ごろどうなっていたのだろうか。",
+    "pre_zh": "如果当初的选择稍有差错，我们现在会变成什么样呢。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "如果当初的选择稍有差错，我们现在会变成什么样呢。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "なおもあの洋上で覚めない悪夢を見続けていたのだろうか。",
+    "post_jp": "なおもあの洋上で覚めない悪夢を見続けていたのだろうか。",
+    "pre_zh": "是否还会在那片海面上继续做着无法醒来的噩梦呢。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "是否还会在那片海面上继续做着无法醒来的噩梦呢。"
+  }
+]

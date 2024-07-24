@@ -1,0 +1,233 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "戒めを解くこともできず、いたずらに時間だけが過ぎていった。",
+    "post_jp": "戒めを解くこともできず、いたずらに時間だけが過ぎていった。",
+    "pre_zh": "无法解开束缚，只能眼睁睁地看着时间白白流逝。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "无法解开束缚，只能眼睁睁地看着时间白白流逝。"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "簡易調理室の扉が開かれる。",
+    "post_jp": "簡易調理室の扉が開かれる。",
+    "pre_zh": "简易厨房的门被打开了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "简易厨房的门被打开了。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "憔悴半分、あきらめ半分だった俺と珠美はぎくりと肩を震わせた。",
+    "post_jp": "憔悴半分、あきらめ半分だった俺と珠美はぎくりと肩を震わせた。",
+    "pre_zh": "半是憔悴半是绝望的我和珠美不禁肩膀一颤。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "半是憔悴半是绝望的我和珠美不禁肩膀一颤。"
+  },
+  {
+    "index": 4,
+    "name": "友則",
+    "pre_jp": "「おとなしくしてたか、囚人ども！！」",
+    "post_jp": "おとなしくしてたか、囚人ども！！",
+    "pre_zh": "老实呆着呢，囚犯们！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「老实呆着呢，囚犯们！！」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "入ってきたのは友則だった得意満面で俺たち二人を見下ろしている。",
+    "post_jp": "入ってきたのは友則だった得意満面で俺たち二人を見下ろしている。",
+    "pre_zh": "进来的是友则，一脸得意地俯视着我们两人。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "进来的是友则，一脸得意地俯视着我们两人。"
+  },
+  {
+    "index": 6,
+    "name": "恭介",
+    "pre_jp": "「友則・・・！」",
+    "post_jp": "友則・・・！",
+    "pre_zh": "友则……！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「友则……！」"
+  },
+  {
+    "index": 7,
+    "name": "珠美",
+    "pre_jp": "「死ね！！　裏切りものぉ！！」",
+    "post_jp": "死ね！！　裏切りものぉ！！",
+    "pre_zh": "去死！！你这个叛徒！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「去死！！你这个叛徒！！」"
+  },
+  {
+    "index": 8,
+    "name": "友則",
+    "pre_jp": "「う〜ん、いい歓迎ぶりだ」",
+    "post_jp": "う〜ん、いい歓迎ぶりだ",
+    "pre_zh": "嗯～真是热情的欢迎啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯～真是热情的欢迎啊」"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "歯がみする俺と、じたばたして叫ぶ珠美を見比べ、友則はひとしきり悦にいる。",
+    "post_jp": "歯がみする俺と、じたばたして叫ぶ珠美を見比べ、友則はひとしきり悦にいる。",
+    "pre_zh": "友则看着咬牙切齿的我和不停挣扎叫喊的珠美，一时间得意洋洋。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "友则看着咬牙切齿的我和不停挣扎叫喊的珠美，一时间得意洋洋。"
+  },
+  {
+    "index": 10,
+    "name": "友則",
+    "pre_jp": "「さあ、獄長のお呼びだ。ご所望はどちらか一人。さあ、どっちにする？」",
+    "post_jp": "さあ、獄長のお呼びだ。ご所望はどちらか一人。さあ、どっちにする？",
+    "pre_zh": "来吧，狱长召唤你们。他只要一个人。来，选哪个？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「来吧，狱长召唤你们。他只要一个人。来，选哪个？」"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "俺たちは思わず顔を見合わせる。",
+    "post_jp": "俺たちは思わず顔を見合わせる。",
+    "pre_zh": "不由自主地对视一眼。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "不由自主地对视一眼。"
+  },
+  {
+    "index": 12,
+    "name": "恭介",
+    "pre_jp": "「友則、俺が行く」",
+    "post_jp": "友則、俺が行く",
+    "pre_zh": "友则，我去",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「友则，我去」"
+  },
+  {
+    "index": 13,
+    "name": "珠美",
+    "pre_jp": "「あたしを連れてけっ！」",
+    "post_jp": "あたしを連れてけっ！",
+    "pre_zh": "带我去！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「带我去！」"
+  },
+  {
+    "index": 14,
+    "name": "",
+    "pre_jp": "予想どおりの反応だったのか、友則は俺たちを見下ろしてニヤリと笑みを浮かべる。",
+    "post_jp": "予想どおりの反応だったのか、友則は俺たちを見下ろしてニヤリと笑みを浮かべる。",
+    "pre_zh": "似乎是预料之中的反应，友则俯视着我们，嘴角浮现出一丝奸笑。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "似乎是预料之中的反应，友则俯视着我们，嘴角浮现出一丝奸笑。"
+  },
+  {
+    "index": 15,
+    "name": "",
+    "pre_jp": "次に哄笑。それがやむと、友則は何がそこまで嬉しいのか甲高い声を上げた。",
+    "post_jp": "次に哄笑。それがやむと、友則は何がそこまで嬉しいのか甲高い声を上げた。",
+    "pre_zh": "接着是一阵狂笑。笑声停止后，友则不知为何如此高兴，用尖锐的声音说道。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "接着是一阵狂笑。笑声停止后，友则不知为何如此高兴，用尖锐的声音说道。"
+  },
+  {
+    "index": 16,
+    "name": "友則",
+    "pre_jp": "「なーんて嘘嘘嘘！！　二人ともだよーん！！」",
+    "post_jp": "なーんて嘘嘘嘘！！　二人ともだよーん！！",
+    "pre_zh": "骗你们的啦啦啦！！两个人都要去哦！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「骗你们的啦啦啦！！两个人都要去哦！！」"
+  },
+  {
+    "index": 17,
+    "name": "恭介",
+    "pre_jp": "「くっ・・・」",
+    "post_jp": "くっ・・・",
+    "pre_zh": "呃……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「呃……」"
+  },
+  {
+    "index": 18,
+    "name": "",
+    "pre_jp": "ごっ！！",
+    "post_jp": "ごっ！！",
+    "pre_zh": "咚！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "咚！！"
+  },
+  {
+    "index": 19,
+    "name": "恭介",
+    "pre_jp": "「がふっ！？」",
+    "post_jp": "がふっ！？",
+    "pre_zh": "呃啊！？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「呃啊！？」"
+  },
+  {
+    "index": 20,
+    "name": "友則",
+    "pre_jp": "「こいつはおまけだ」",
+    "post_jp": "こいつはおまけだ",
+    "pre_zh": "这是额外赠送的",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「这是额外赠送的」"
+  },
+  {
+    "index": 21,
+    "name": "",
+    "pre_jp": "後頭部に衝撃が走り、意識が拡散していく。",
+    "post_jp": "後頭部に衝撃が走り、意識が拡散していく。",
+    "pre_zh": "后脑勺传来一阵冲击，意识逐渐涣散。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "后脑勺传来一阵冲击，意识逐渐涣散。"
+  }
+]

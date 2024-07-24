@@ -1,0 +1,46 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「明乃だ」",
+    "post_jp": "明乃だ",
+    "pre_zh": "是明乃。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「是明乃。」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "　短く答える。長々と説明していたら途中から言い訳ばかりになってしまうだろう。",
+    "post_jp": "短く答える。長々と説明していたら途中から言い訳ばかりになってしまうだろう。",
+    "pre_zh": "简短地回答。若是长篇大论地解释，恐怕半途就会变成借口连篇。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "　简短地回答。若是长篇大论地解释，恐怕半途就会变成借口连篇。"
+  },
+  {
+    "index": 3,
+    "name": "ちはや",
+    "pre_jp": "「そう・・・」",
+    "post_jp": "そう・・・",
+    "pre_zh": "这样啊……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「这样啊……」"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "　ちはやの返事も短い。このことについては、ちはやは何の感想も漏らさなかった。",
+    "post_jp": "ちはやの返事も短い。このことについては、ちはやは何の感想も漏らさなかった。",
+    "pre_zh": "千早的回应也很简短。对于这件事，她没有表露出任何感想。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "　千早的回应也很简短。对于这件事，她没有表露出任何感想。"
+  }
+]

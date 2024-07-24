@@ -1,0 +1,24 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「珠美、よこせっ！！」",
+    "post_jp": "珠美、よこせっ！！",
+    "pre_zh": "珠美，把它给我！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「珠美，把它给我！！」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "名前を呼びながら俺はきびすを返して走りだす。",
+    "post_jp": "名前を呼びながら俺はきびすを返して走りだす。",
+    "pre_zh": "一边喊着名字一边转身跑了起来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "一边喊着名字一边转身跑了起来。"
+  }
+]

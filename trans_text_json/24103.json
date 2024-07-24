@@ -1,0 +1,101 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「友則」",
+    "post_jp": "友則",
+    "pre_zh": "友则",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「友则」"
+  },
+  {
+    "index": 2,
+    "name": "友則",
+    "pre_jp": "「何だよ」",
+    "post_jp": "何だよ",
+    "pre_zh": "咋了",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「咋了」"
+  },
+  {
+    "index": 3,
+    "name": "恭介",
+    "pre_jp": "「何だよはないだろ。拳銃はどうしたんだ」",
+    "post_jp": "何だよはないだろ。拳銃はどうしたんだ",
+    "pre_zh": "什么咋了啊。枪呢",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「什么咋了啊。枪呢」"
+  },
+  {
+    "index": 4,
+    "name": "友則",
+    "pre_jp": "「え？」",
+    "post_jp": "え？",
+    "pre_zh": "啊？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊？」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "友則はまじまじと俺のことを見返してくる。会話が噛みあっていない。",
+    "post_jp": "友則はまじまじと俺のことを見返してくる。会話が噛みあっていない。",
+    "pre_zh": "友则直勾勾地盯着我看。对话完全不在一个频道上。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "友则直勾勾地盯着我看。对话完全不在一个频道上。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "認識に食い違いでもあるのか。数秒見つめ合った後、友則の表情にようやく合点の兆しが浮かんできた。",
+    "post_jp": "認識に食い違いでもあるのか。数秒見つめ合った後、友則の表情にようやく合点の兆しが浮かんできた。",
+    "pre_zh": "难道是认知上有什么偏差吗。对视几秒后，友则的表情终于露出了恍然大悟的迹象。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "难道是认知上有什么偏差吗。对视几秒后，友则的表情终于露出了恍然大悟的迹象。"
+  },
+  {
+    "index": 7,
+    "name": "友則",
+    "pre_jp": "「あ・・・そうか」",
+    "post_jp": "あ・・・そうか",
+    "pre_zh": "啊……原来如此",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊……原来如此」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "友則は拳銃を取り出して遊底を引き、セイフティを解除する。",
+    "post_jp": "友則は拳銃を取り出して遊底を引き、セイフティを解除する。",
+    "pre_zh": "友则掏出手枪，拉动套筒，解除保险。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "友则掏出手枪，拉动套筒，解除保险。"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "今の反応は何だったんだ。友則のやつ、自分が拳銃を持っていることを忘れていたのだろうか。",
+    "post_jp": "今の反応は何だったんだ。友則のやつ、自分が拳銃を持っていることを忘れていたのだろうか。",
+    "pre_zh": "刚才那反应是怎么回事。友则那家伙，该不会是忘了自己带着手枪吧。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "刚才那反应是怎么回事。友则那家伙，该不会是忘了自己带着手枪吧。"
+  }
+]

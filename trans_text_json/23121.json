@@ -1,0 +1,24 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「俺がアンテナの方に回る」",
+    "post_jp": "俺がアンテナの方に回る",
+    "pre_zh": "我去天线那边",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「我去天线那边」"
+  },
+  {
+    "index": 2,
+    "name": "友則",
+    "pre_jp": "「よし、それじゃあ俺は救命ボートで全員決まりだな」",
+    "post_jp": "よし、それじゃあ俺は救命ボートで全員決まりだな",
+    "pre_zh": "好，那我就负责救生艇全员了",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「好，那我就负责救生艇全员了」"
+  }
+]

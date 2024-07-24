@@ -1,0 +1,145 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "俺は岸田から目を離さず、手錠を取り出して岸田の足元に放り投げる。",
+    "post_jp": "俺は岸田から目を離さず、手錠を取り出して岸田の足元に放り投げる。",
+    "pre_zh": "目不转睛地盯着岸田，从口袋里掏出手铐扔到他脚边。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "目不转睛地盯着岸田，从口袋里掏出手铐扔到他脚边。"
+  },
+  {
+    "index": 2,
+    "name": "恭介",
+    "pre_jp": "「それを手に掛けるんだ」",
+    "post_jp": "それを手に掛けるんだ",
+    "pre_zh": "把那个戴上",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「把那个戴上」"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "岸田は腰を屈めて手錠を拾い上げた。そのまま手首にはめようとする。",
+    "post_jp": "岸田は腰を屈めて手錠を拾い上げた。そのまま手首にはめようとする。",
+    "pre_zh": "岸田弯腰捡起手铐。就这样准备戴在手腕上。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田弯腰捡起手铐。就这样准备戴在手腕上。"
+  },
+  {
+    "index": 4,
+    "name": "恭介",
+    "pre_jp": "「後ろ手だ！」",
+    "post_jp": "後ろ手だ！",
+    "pre_zh": "背后！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「背后！」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "やれやれと肩をすくめながらも、岸田は腰の後ろに両手を回して手錠をはめる。",
+    "post_jp": "やれやれと肩をすくめながらも、岸田は腰の後ろに両手を回して手錠をはめる。",
+    "pre_zh": "岸田一边无奈地耸肩，一边把双手背到腰后戴上手铐。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田一边无奈地耸肩，一边把双手背到腰后戴上手铐。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "ふと、岸田は顔を上げた。",
+    "post_jp": "ふと、岸田は顔を上げた。",
+    "pre_zh": "突然，岸田抬起头。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "突然，岸田抬起头。"
+  },
+  {
+    "index": 7,
+    "name": "岸田",
+    "pre_jp": "「こんなものどこで手に入れた？」",
+    "post_jp": "こんなものどこで手に入れた？",
+    "pre_zh": "这玩意儿你从哪搞来的？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「这玩意儿你从哪搞来的？」"
+  },
+  {
+    "index": 8,
+    "name": "恭介",
+    "pre_jp": "「それは・・・」",
+    "post_jp": "それは・・・",
+    "pre_zh": "这个嘛……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「这个嘛……」"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "思わず答えそうになり、俺は慌てて語気を強めた。",
+    "post_jp": "思わず答えそうになり、俺は慌てて語気を強めた。",
+    "pre_zh": "差点脱口而出，慌忙加重语气。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "差点脱口而出，慌忙加重语气。"
+  },
+  {
+    "index": 10,
+    "name": "恭介",
+    "pre_jp": "「どこでもかまわないだろうが！！」",
+    "post_jp": "どこでもかまわないだろうが！！",
+    "pre_zh": "在哪儿不重要吧！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「在哪儿不重要吧！！」"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "岸田は少し考えるような表情になり、やがて口の中で呟いた。",
+    "post_jp": "岸田は少し考えるような表情になり、やがて口の中で呟いた。",
+    "pre_zh": "岸田露出略微思考的表情，随后低声嘟囔道。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田露出略微思考的表情，随后低声嘟囔道。"
+  },
+  {
+    "index": 12,
+    "name": "岸田",
+    "pre_jp": "「見落としたか・・・」",
+    "post_jp": "見落としたか・・・",
+    "pre_zh": "疏忽了吗……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「疏忽了吗……」"
+  },
+  {
+    "index": 13,
+    "name": "恭介",
+    "pre_jp": "「さあ、こっちだ！！　妙な真似したら遠慮しないからな！！」",
+    "post_jp": "さあ、こっちだ！！　妙な真似したら遠慮しないからな！！",
+    "pre_zh": "来，这边！！要是耍什么花招我可不客气！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「来，这边！！要是耍什么花招我可不客气！！」"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "一歩ずつ隔壁に近づいていく。",
+    "post_jp": "一歩ずつ隔壁に近づいていく。",
+    "pre_zh": "一步步靠近隔壁。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "一步步靠近隔壁。"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "懸命に先を見透かしていたせいかもしれない。",
+    "post_jp": "懸命に先を見透かしていたせいかもしれない。",
+    "pre_zh": "可能是因为拼命地想看透前方。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "可能是因为拼命地想看透前方。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "俺はすぐ足元で起こっている異変に気づくのが遅れた。",
+    "post_jp": "俺はすぐ足元で起こっている異変に気づくのが遅れた。",
+    "pre_zh": "没能及时注意到就在脚下发生的异变。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "没能及时注意到就在脚下发生的异变。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "それをまず嗅覚によって知らされる。酸味の強い臭いに、俺は床へ目を移した。",
+    "post_jp": "それをまず嗅覚によって知らされる。酸味の強い臭いに、俺は床へ目を移した。",
+    "pre_zh": "首先是通过嗅觉察觉到的。闻到强烈的酸味，将目光移向了地板。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "首先是通过嗅觉察觉到的。闻到强烈的酸味，将目光移向了地板。"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "その途端、ぎょっと目を見張る。",
+    "post_jp": "その途端、ぎょっと目を見張る。",
+    "pre_zh": "顿时，瞪大了眼睛。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "顿时，瞪大了眼睛。"
+  }
+]

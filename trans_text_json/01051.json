@@ -1,0 +1,101 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「じゃあ、頼むわ」",
+    "post_jp": "じゃあ、頼むわ",
+    "pre_zh": "那就拜托你了",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「那就拜托你了」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "おもむろにＹシャツを脱ぐ。",
+    "post_jp": "おもむろにＹシャツを脱ぐ。",
+    "pre_zh": "慢条斯理地脱下衬衫。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "慢条斯理地脱下衬衫。"
+  },
+  {
+    "index": 3,
+    "name": "可憐",
+    "pre_jp": "「きゃ・・・！」",
+    "post_jp": "きゃ・・・！",
+    "pre_zh": "呀……！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「呀……！」"
+  },
+  {
+    "index": 4,
+    "name": "恭介",
+    "pre_jp": "「いや、下に半袖来てるし。悲鳴なんかあげなくても」",
+    "post_jp": "いや、下に半袖来てるし。悲鳴なんかあげなくても",
+    "pre_zh": "喂，里面还穿着短袖呢。用不着尖叫吧",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「喂，里面还穿着短袖呢。用不着尖叫吧」"
+  },
+  {
+    "index": 5,
+    "name": "可憐",
+    "pre_jp": "「わかってるわよ！　腕がこっちに来たからびっくりしただけ！」",
+    "post_jp": "わかってるわよ！　腕がこっちに来たからびっくりしただけ！",
+    "pre_zh": "我知道啦！只是你的手臂突然靠过来吓了我一跳而已！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「我知道啦！只是你的手臂突然靠过来吓了我一跳而已！」"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "叫びながら、可憐は俺のＹシャツをちゃくっとひったくる。",
+    "post_jp": "叫びながら、可憐は俺のＹシャツをちゃくっとひったくる。",
+    "pre_zh": "一边叫着，可怜麻利地抢过衬衫。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "一边叫着，可怜麻利地抢过衬衫。"
+  },
+  {
+    "index": 7,
+    "name": "可憐",
+    "pre_jp": "「夜までには済ませておくから」",
+    "post_jp": "夜までには済ませておくから",
+    "pre_zh": "晚上之前我会洗好的",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「晚上之前我会洗好的」"
+  },
+  {
+    "index": 8,
+    "name": "恭介",
+    "pre_jp": "「違う用途に使っちゃダメだぞ」",
+    "post_jp": "違う用途に使っちゃダメだぞ",
+    "pre_zh": "可别拿去干别的用途啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「可别拿去干别的用途啊」"
+  },
+  {
+    "index": 9,
+    "name": "可憐",
+    "pre_jp": "「使うか！！」",
+    "post_jp": "使うか！！",
+    "pre_zh": "才不会呢！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「才不会呢！！」"
+  }
+]

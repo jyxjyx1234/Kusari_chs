@@ -1,0 +1,68 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「ちはや！！　これを！！」",
+    "post_jp": "ちはや！！　これを！！",
+    "pre_zh": "千早！！接住这个！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「千早！！接住这个！！」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "テーブルの陰からちはやへ信号弾を投げて寄越す。",
+    "post_jp": "テーブルの陰からちはやへ信号弾を投げて寄越す。",
+    "pre_zh": "从桌子后面向千早扔过去一枚信号弹。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "从桌子后面向千早扔过去一枚信号弹。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "階段口で割れ物を抱えるようにしてそれを受け取った\\nちはやは、一目散に甲板へ向かった。",
+    "post_jp": "階段口で割れ物を抱えるようにしてそれを受け取った　ちはやは、一目散に甲板へ向かった。",
+    "pre_zh": "在楼梯口像抱着易碎品一样接住它的千早，一溜烟地朝甲板跑去。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "在楼梯口像抱着易碎品一样接住它的千早，一溜烟地朝甲板跑去。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "すぐさま目映い白色の光弾が墨色の闇に投じられる。",
+    "post_jp": "すぐさま目映い白色の光弾が墨色の闇に投じられる。",
+    "pre_zh": "刹那间，耀眼的白色光弹被投入墨色的黑暗中。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "刹那间，耀眼的白色光弹被投入墨色的黑暗中。"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "気づいたか。いや、気づかないはずはない。",
+    "post_jp": "気づいたか。いや、気づかないはずはない。",
+    "pre_zh": "注意到了吗？不，不可能没注意到。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "注意到了吗？不，不可能没注意到。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "船内の照明と信号弾。この両方に気づかないなんてあるはずがない！",
+    "post_jp": "船内の照明と信号弾。この両方に気づかないなんてあるはずがない！",
+    "pre_zh": "船内的照明和信号弹。不可能这两样都没注意到！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "船内的照明和信号弹。不可能这两样都没注意到！"
+  }
+]

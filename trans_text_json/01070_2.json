@@ -1,0 +1,35 @@
+[
+  {
+    "index": 1,
+    "name": "ちはや",
+    "pre_jp": "「はい、お腹すいたでしょ？」",
+    "post_jp": "はい、お腹すいたでしょ？",
+    "pre_zh": "嗯，肚子饿了吧？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯，肚子饿了吧？」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "ちはやは悪意のひとかけらも見せず、肉をたんと焼いて皿一杯に持ってくる。",
+    "post_jp": "ちはやは悪意のひとかけらも見せず、肉をたんと焼いて皿一杯に持ってくる。",
+    "pre_zh": "千早毫无恶意地烤了大量的肉，端着满满一盘走了过来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "千早毫无恶意地烤了大量的肉，端着满满一盘走了过来。"
+  },
+  {
+    "index": 3,
+    "name": "恭介",
+    "pre_jp": "「妹よ・・・それは不可避イベントなのか？」",
+    "post_jp": "妹よ・・・それは不可避イベントなのか？",
+    "pre_zh": "妹妹啊……这是无法避免的事件吗？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「妹妹啊……这是无法避免的事件吗？」"
+  }
+]

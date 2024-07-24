@@ -1,0 +1,112 @@
+[
+  {
+    "index": 1,
+    "name": "友則",
+    "pre_jp": "「拳銃は恭介に渡すなよ！　そういう取り決めなんだからな！」",
+    "post_jp": "拳銃は恭介に渡すなよ！　そういう取り決めなんだからな！",
+    "pre_zh": "别把手枪给恭介！这是我们的约定，你知道的！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「别把手枪给恭介！这是我们的约定，你知道的！」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "友則は捨てぜりふを吐きながら、大階段を降っていく俺たちを送り出す。",
+    "post_jp": "友則は捨てぜりふを吐きながら、大階段を降っていく俺たちを送り出す。",
+    "pre_zh": "友则一边说着最后的叮嘱，一边目送我们下了大楼梯。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "友则一边说着最后的叮嘱，一边目送我们下了大楼梯。"
+  },
+  {
+    "index": 3,
+    "name": "恵",
+    "pre_jp": "「はい」",
+    "post_jp": "はい",
+    "pre_zh": "嗯",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯」"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "友則の視線がそれると、恵は当然のように俺へ拳銃を差し出した。",
+    "post_jp": "友則の視線がそれると、恵は当然のように俺へ拳銃を差し出した。",
+    "pre_zh": "一等友则的视线移开，惠就理所当然地把手枪递给了我。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "一等友则的视线移开，惠就理所当然地把手枪递给了我。"
+  },
+  {
+    "index": 5,
+    "name": "恭介",
+    "pre_jp": "「いいのか？」",
+    "post_jp": "いいのか？",
+    "pre_zh": "这样行吗？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「这样行吗？」"
+  },
+  {
+    "index": 6,
+    "name": "恵",
+    "pre_jp": "「あてにしてたくせに」",
+    "post_jp": "あてにしてたくせに",
+    "pre_zh": "哼，明明就指望着这个",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「哼，明明就指望着这个」"
+  },
+  {
+    "index": 7,
+    "name": "恭介",
+    "pre_jp": "「まあ、少しはね」",
+    "post_jp": "まあ、少しはね",
+    "pre_zh": "嘛，有那么一点吧",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嘛，有那么一点吧」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "俺は遊底を引いて弾丸を全て出し、改めて弾倉に詰め直す。",
+    "post_jp": "俺は遊底を引いて弾丸を全て出し、改めて弾倉に詰め直す。",
+    "pre_zh": "拉开枪栓，取出所有子弹，然后重新装填弹夹。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "拉开枪栓，取出所有子弹，然后重新装填弹夹。"
+  },
+  {
+    "index": 9,
+    "name": "恵",
+    "pre_jp": "「そういう用心深いところ、嫌いじゃないけど・・・」",
+    "post_jp": "そういう用心深いところ、嫌いじゃないけど・・・",
+    "pre_zh": "你这种谨慎的地方，我倒是不讨厌……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「你这种谨慎的地方，我倒是不讨厌……」"
+  },
+  {
+    "index": 10,
+    "name": "恵",
+    "pre_jp": "「できれば本人の見てないところでやって」",
+    "post_jp": "できれば本人の見てないところでやって",
+    "pre_zh": "不过最好还是别让本人看到你这么做",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「不过最好还是别让本人看到你这么做」"
+  }
+]

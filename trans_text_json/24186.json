@@ -1,0 +1,112 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "友則への疑いを広めることは避けたい。余計な騒動を引き起こす原因にもなりかねないから。",
+    "post_jp": "友則への疑いを広めることは避けたい。余計な騒動を引き起こす原因にもなりかねないから。",
+    "pre_zh": "想避免散布对友则的怀疑。因为这可能会引起不必要的骚动。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "想避免散布对友则的怀疑。因为这可能会引起不必要的骚动。"
+  },
+  {
+    "index": 2,
+    "name": "恭介",
+    "pre_jp": "「本当にくだらないことで言い争いになっただけだから」",
+    "post_jp": "本当にくだらないことで言い争いになっただけだから",
+    "pre_zh": "真的只是为了一些无聊的事情争吵而已",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「真的只是为了一些无聊的事情争吵而已」"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "他愛ない衝突で、その内容なんて今さら口に出すのも恥ずかしい、というポーズを取ってみる。",
+    "post_jp": "他愛ない衝突で、その内容なんて今さら口に出すのも恥ずかしい、というポーズを取ってみる。",
+    "pre_zh": "摆出一副无关紧要的冲突，现在说出内容都觉得羞耻的姿态。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "摆出一副无关紧要的冲突，现在说出内容都觉得羞耻的姿态。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "だが、ちはやは悲しい瞳で眉を寄せた。納得した様子などまるでなく、俺は慌てて言葉を継ぎ足す。",
+    "post_jp": "だが、ちはやは悲しい瞳で眉を寄せた。納得した様子などまるでなく、俺は慌てて言葉を継ぎ足す。",
+    "pre_zh": "然而，千早皱着眉头，眼神悲伤。完全没有接受的样子，慌忙补充道。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "然而，千早皱着眉头，眼神悲伤。完全没有接受的样子，慌忙补充道。"
+  },
+  {
+    "index": 5,
+    "name": "恭介",
+    "pre_jp": "「そのうち仲直りしておくから、心配することないって」",
+    "post_jp": "そのうち仲直りしておくから、心配することないって",
+    "pre_zh": "过段时间就会和好的，不用担心啦",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「过段时间就会和好的，不用担心啦」"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "あくまで話を結果の方に持っていく。",
+    "post_jp": "あくまで話を結果の方に持っていく。",
+    "pre_zh": "始终把话题引向结果。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "始终把话题引向结果。"
+  },
+  {
+    "index": 7,
+    "name": "ちはや",
+    "pre_jp": "「そう・・・」",
+    "post_jp": "そう・・・",
+    "pre_zh": "这样啊……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「这样啊……」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "うまくごまかせた、とは思えない。ちはやのつらそうな表情は晴れず、瞼を薄く閉じて俯いてしまう。",
+    "post_jp": "うまくごまかせた、とは思えない。ちはやのつらそうな表情は晴れず、瞼を薄く閉じて俯いてしまう。",
+    "pre_zh": "不觉得糊弄过去了。千早痛苦的表情没有消散，轻轻闭上眼睛低下了头。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "不觉得糊弄过去了。千早痛苦的表情没有消散，轻轻闭上眼睛低下了头。"
+  },
+  {
+    "index": 9,
+    "name": "ちはや",
+    "pre_jp": "「無理はしないで」",
+    "post_jp": "無理はしないで",
+    "pre_zh": "别勉强自己",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「别勉强自己」"
+  },
+  {
+    "index": 10,
+    "name": "",
+    "pre_jp": "そう言いながらもちはやは唇を噛みしめていた。",
+    "post_jp": "そう言いながらもちはやは唇を噛みしめていた。",
+    "pre_zh": "虽这么说着，千早却紧咬着嘴唇。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "虽这么说着，千早却紧咬着嘴唇。"
+  }
+]

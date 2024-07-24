@@ -1,0 +1,24 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「俺は救命ボートを調べる」",
+    "post_jp": "俺は救命ボートを調べる",
+    "pre_zh": "我去检查一下救生艇",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「我去检查一下救生艇」"
+  },
+  {
+    "index": 2,
+    "name": "友則",
+    "pre_jp": "「じゃあ俺がアンテナ周りで全員決まったな」",
+    "post_jp": "じゃあ俺がアンテナ周りで全員決まったな",
+    "pre_zh": "那我就负责天线周围的区域，这样大家都安排好了吧",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「那我就负责天线周围的区域，这样大家都安排好了吧」"
+  }
+]

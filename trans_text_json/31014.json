@@ -1,0 +1,24 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「珠美っ！！」",
+    "post_jp": "珠美っ！！",
+    "pre_zh": "珠美！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「珠美！！」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "俺は岸田の刃に背を向けて走りだした。",
+    "post_jp": "俺は岸田の刃に背を向けて走りだした。",
+    "pre_zh": "背对岸田的刀刃跑了起来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "背对岸田的刀刃跑了起来。"
+  }
+]

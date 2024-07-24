@@ -1,0 +1,57 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「みんなの中には恵も含まれるからさ」",
+    "post_jp": "みんなの中には恵も含まれるからさ",
+    "pre_zh": "因为大家里面也包括惠啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「因为大家里面也包括惠啊」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "思いきり真面目を向けてみる。だが恵には通用していないようだ。",
+    "post_jp": "思いきり真面目を向けてみる。だが恵には通用していないようだ。",
+    "pre_zh": "试着认真地看向她。但似乎对惠不起作用。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "试着认真地看向她。但似乎对惠不起作用。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "俺は気を緩め、肩をすくめてみせた。",
+    "post_jp": "俺は気を緩め、肩をすくめてみせた。",
+    "pre_zh": "放松下来，耸了耸肩。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "放松下来，耸了耸肩。"
+  },
+  {
+    "index": 4,
+    "name": "恭介",
+    "pre_jp": "「・・・ということにしておこう」",
+    "post_jp": "・・・ということにしておこう",
+    "pre_zh": "……就这么说定了吧",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……就这么说定了吧」"
+  },
+  {
+    "index": 5,
+    "name": "恵",
+    "pre_jp": "「あら、ちょっと本気にしたのに」",
+    "post_jp": "あら、ちょっと本気にしたのに",
+    "pre_zh": "哎呀，我还当真了一下呢",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「哎呀，我还当真了一下呢」"
+  }
+]

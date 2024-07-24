@@ -1,0 +1,79 @@
+[
+  {
+    "index": 1,
+    "name": "友則",
+    "pre_jp": "「ひっ！？　き、きょうすけ！？」",
+    "post_jp": "ひっ！？　き、きょうすけ！？",
+    "pre_zh": "嘶！？京、京介！？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嘶！？京、京介！？」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "ウィンチルームに戻るなり、友則が引きつった悲鳴をもらす。逃げも隠れもできずにおろおろしていたようだ。",
+    "post_jp": "ウィンチルームに戻るなり、友則が引きつった悲鳴をもらす。逃げも隠れもできずにおろおろしていたようだ。",
+    "pre_zh": "一回到休息室，友则就发出了一声惊恐的尖叫。看来他既无处可逃，也无处可藏，只能慌张地站在那里。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "一回到休息室，友则就发出了一声惊恐的尖叫。看来他既无处可逃，也无处可藏，只能慌张地站在那里。"
+  },
+  {
+    "index": 3,
+    "name": "友則",
+    "pre_jp": "「いや、違うんだ、みんな恵が・・・だから、俺は・・・」",
+    "post_jp": "いや、違うんだ、みんな恵が・・・だから、俺は・・・",
+    "pre_zh": "不，不是这样的，大家都是惠...所以，我才...",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「不，不是这样的，大家都是惠…所以，我才…」"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "俺は親指と人差し指の間を広げて友則の喉を打った。",
+    "post_jp": "俺は親指と人差し指の間を広げて友則の喉を打った。",
+    "pre_zh": "用拇指和食指张开的手势击打了友则的喉咙。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "用拇指和食指张开的手势击打了友则的喉咙。"
+  },
+  {
+    "index": 5,
+    "name": "友則",
+    "pre_jp": "「ぐげっっ！！」",
+    "post_jp": "ぐげっっ！！",
+    "pre_zh": "咕呃！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「咕呃！！」"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "たまらず、友則は尻餅をつく。",
+    "post_jp": "たまらず、友則は尻餅をつく。",
+    "pre_zh": "友则忍不住跌坐在地上。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "友则忍不住跌坐在地上。"
+  },
+  {
+    "index": 7,
+    "name": "友則",
+    "pre_jp": "「げっ、げっ、げへっ！！」",
+    "post_jp": "げっ、げっ、げへっ！！",
+    "pre_zh": "呃，呃，呕！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「呃，呃，呕！！」"
+  }
+]

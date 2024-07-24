@@ -1,0 +1,79 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「じゃあ・・・借りとくよ。買い直したらちはやにあげた方と入れ替えるから」",
+    "post_jp": "じゃあ・・・借りとくよ。買い直したらちはやにあげた方と入れ替えるから",
+    "pre_zh": "那么……我就先借走了。等买了新的后，我会把给千早的那个换回来",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「那么……我就先借走了。等买了新的后，我会把给千早的那个换回来」"
+  },
+  {
+    "index": 2,
+    "name": "可憐",
+    "pre_jp": "「駄目駄目。女はそういうのすぐ勘づくから」",
+    "post_jp": "駄目駄目。女はそういうのすぐ勘づくから",
+    "pre_zh": "不行不行。女人对这种事很敏感的",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「不行不行。女人对这种事很敏感的」"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "プラチナリングを受け取り、手の中に収める。",
+    "post_jp": "プラチナリングを受け取り、手の中に収める。",
+    "pre_zh": "接过铂金戒指，握在手中。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "接过铂金戒指，握在手中。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "ちょっと照れながら。",
+    "post_jp": "ちょっと照れながら。",
+    "pre_zh": "有点害羞地。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "有点害羞地。"
+  },
+  {
+    "index": 5,
+    "name": "恭介",
+    "pre_jp": "「あ、ありがとう」",
+    "post_jp": "あ、ありがとう",
+    "pre_zh": "啊，谢谢",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊，谢谢」"
+  },
+  {
+    "index": 6,
+    "name": "可憐",
+    "pre_jp": "「普段もそのくらい素直だったらね」",
+    "post_jp": "普段もそのくらい素直だったらね",
+    "pre_zh": "要是平时也能这么坦率就好了",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「要是平时也能这么坦率就好了」"
+  },
+  {
+    "index": 7,
+    "name": "恭介",
+    "pre_jp": "「そりゃどーも」",
+    "post_jp": "そりゃどーも",
+    "pre_zh": "那可真是多谢啦",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「那可真是多谢啦」"
+  }
+]

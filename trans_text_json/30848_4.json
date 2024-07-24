@@ -1,0 +1,233 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「そういえば珠美はどうした？」",
+    "post_jp": "そういえば珠美はどうした？",
+    "pre_zh": "说起来，珠美去哪儿了？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「说起来，珠美去哪儿了？」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "道すがら事情の説明に終始していたので、尋ねるのが今さらになった。ディスプレイに映し出された光景を見て、自主的に別行動を始めたということだろうか。",
+    "post_jp": "道すがら事情の説明に終始していたので、尋ねるのが今さらになった。ディスプレイに映し出された光景を見て、自主的に別行動を始めたということだろうか。",
+    "pre_zh": "一路上都在解释情况，所以现在才想起来问。看着显示屏上映出的景象，她是不是自作主张开始单独行动了呢。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "一路上都在解释情况，所以现在才想起来问。看着显示屏上映出的景象，她是不是自作主张开始单独行动了呢。"
+  },
+  {
+    "index": 3,
+    "name": "可憐",
+    "pre_jp": "「グリルだと思うけど」",
+    "post_jp": "グリルだと思うけど",
+    "pre_zh": "应该在烧烤区吧",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「应该在烧烤区吧」"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "可憐は肩をすくめる。良家の子女にしては奔放すぎる妹については、姉である可憐の手にも余るのだろう。",
+    "post_jp": "可憐は肩をすくめる。良家の子女にしては奔放すぎる妹については、姉である可憐の手にも余るのだろう。",
+    "pre_zh": "可怜耸了耸肩。对于这个作为名门之女却过于奔放的妹妹，就连作为姐姐的可怜也感到力不从心。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "可怜耸了耸肩。对于这个作为名门之女却过于奔放的妹妹，就连作为姐姐的可怜也感到力不从心。"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "部屋の探索にさほど人手はいらない。珠美は珠美で好きにやらせておいても問題はなさそうだ。俺たちは三方に散ってそれぞれ室内を調べ始めた。",
+    "post_jp": "部屋の探索にさほど人手はいらない。珠美は珠美で好きにやらせておいても問題はなさそうだ。俺たちは三方に散ってそれぞれ室内を調べ始めた。",
+    "pre_zh": "搜索房间并不需要太多人手。让珠美自己随意行动似乎也没什么问题。我们三个人分散开来，各自开始调查室内。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "搜索房间并不需要太多人手。让珠美自己随意行动似乎也没什么问题。我们三个人分散开来，各自开始调查室内。"
+  },
+  {
+    "index": 6,
+    "name": "ちはや",
+    "pre_jp": "「お兄ちゃん、懐中時計ってどんな形？」",
+    "post_jp": "お兄ちゃん、懐中時計ってどんな形？",
+    "pre_zh": "哥哥，怀表是什么样的？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「哥哥，怀表是什么样的？」"
+  },
+  {
+    "index": 7,
+    "name": "",
+    "pre_jp": "そういえば詳しくは聞いていない。返事がないことを訝しく思ったか可憐が口を挟んでくる。",
+    "post_jp": "そういえば詳しくは聞いていない。返事がないことを訝しく思ったか可憐が口を挟んでくる。",
+    "pre_zh": "这么说来确实没有详细询问过。可能是觉得没有回答很奇怪，可怜插话进来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "这么说来确实没有详细询问过。可能是觉得没有回答很奇怪，可怜插话进来。"
+  },
+  {
+    "index": 8,
+    "name": "可憐",
+    "pre_jp": "「そんなことも聞かなかったわけ？」",
+    "post_jp": "そんなことも聞かなかったわけ？",
+    "pre_zh": "连这种事都没问过吗？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「连这种事都没问过吗？」"
+  },
+  {
+    "index": 9,
+    "name": "恭介",
+    "pre_jp": "「そういくつも落ちてるわけないだろ、懐中時計が」",
+    "post_jp": "そういくつも落ちてるわけないだろ、懐中時計が",
+    "pre_zh": "怀表怎么可能到处都是啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「怀表怎么可能到处都是啊」"
+  },
+  {
+    "index": 10,
+    "name": "可憐",
+    "pre_jp": "「あきれた・・・」",
+    "post_jp": "あきれた・・・",
+    "pre_zh": "真是服了你了……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「真是服了你了……」"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "ぶつぶつ文句をこぼしながらも可憐は作業に戻る。",
+    "post_jp": "ぶつぶつ文句をこぼしながらも可憐は作業に戻る。",
+    "pre_zh": "可怜一边嘟囔着抱怨，一边回到了工作中。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "可怜一边嘟囔着抱怨，一边回到了工作中。"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "岸田の話では『落とした』ということだったので、まずは引き出しや開きは飛ばして表面的に探してみる。",
+    "post_jp": "岸田の話では『落とした』ということだったので、まずは引き出しや開きは飛ばして表面的に探してみる。",
+    "pre_zh": "按照岸田所说是“掉了”，所以先跳过抽屉和开口处，只在表面搜寻一下。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "按照岸田所说是『掉了』，所以先跳过抽屉和开口处，只在表面搜寻一下。"
+  },
+  {
+    "index": 13,
+    "name": "可憐",
+    "pre_jp": "「こっち見ないでよっ」",
+    "post_jp": "こっち見ないでよっ",
+    "pre_zh": "别看这边啦！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「别看这边啦！」"
+  },
+  {
+    "index": 14,
+    "name": "",
+    "pre_jp": "毛足の長いカーペットに四つん這いになった可憐が眼差しを険しくする。",
+    "post_jp": "毛足の長いカーペットに四つん這いになった可憐が眼差しを険しくする。",
+    "pre_zh": "趴在长毛地毯上的可怜，眼神变得凶狠起来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "趴在长毛地毯上的可怜，眼神变得凶狠起来。"
+  },
+  {
+    "index": 15,
+    "name": "恭介",
+    "pre_jp": "「見てねぇよ」",
+    "post_jp": "見てねぇよ",
+    "pre_zh": "我才没看呢",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「我才没看呢」"
+  },
+  {
+    "index": 16,
+    "name": "可憐",
+    "pre_jp": "「見てるでしょ！！」",
+    "post_jp": "見てるでしょ！！",
+    "pre_zh": "你明明就在看！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「你明明就在看！！」"
+  },
+  {
+    "index": 17,
+    "name": "恭介",
+    "pre_jp": "「呼ぶからだろうが」",
+    "post_jp": "呼ぶからだろうが",
+    "pre_zh": "不就是因为我叫你吗",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「不就是因为我叫你吗」"
+  },
+  {
+    "index": 18,
+    "name": "ちはや",
+    "pre_jp": "「・・・・・・」",
+    "post_jp": "・・・・・・",
+    "pre_zh": "……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……」"
+  },
+  {
+    "index": 19,
+    "name": "恭介",
+    "pre_jp": "「いや、そっちも見てないから」",
+    "post_jp": "いや、そっちも見てないから",
+    "pre_zh": "不，你也没看这边啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「不，你也没看这边啊」"
+  },
+  {
+    "index": 20,
+    "name": "",
+    "pre_jp": "期待するような上目づかいでこちらを窺っていたちはやは拗ねたようにそっぽを向く。",
+    "post_jp": "期待するような上目づかいでこちらを窺っていたちはやは拗ねたようにそっぽを向く。",
+    "pre_zh": "原本期待地抬眼偷瞄这边的千早，像是赌气似的扭过头去。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "原本期待地抬眼偷瞄这边的千早，像是赌气似的扭过头去。"
+  },
+  {
+    "index": 21,
+    "name": "恭介",
+    "pre_jp": "「本当に時間がないんだが・・・」",
+    "post_jp": "本当に時間がないんだが・・・",
+    "pre_zh": "我真的没时间了……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「我真的没时间了……」"
+  }
+]

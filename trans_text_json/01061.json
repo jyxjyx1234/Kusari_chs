@@ -1,0 +1,123 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "コンコン。ノックをするがすぐには返事はない。",
+    "post_jp": "コンコン。ノックをするがすぐには返事はない。",
+    "pre_zh": "咚咚。敲门后没有立即得到回应。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "咚咚。敲门后没有立即得到回应。"
+  },
+  {
+    "index": 2,
+    "name": "恭介",
+    "pre_jp": "「志乃さん？」",
+    "post_jp": "志乃さん？",
+    "pre_zh": "志乃小姐？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「志乃小姐？」"
+  },
+  {
+    "index": 3,
+    "name": "志乃",
+    "pre_jp": "「ん？　どうぞ」",
+    "post_jp": "ん？　どうぞ",
+    "pre_zh": "嗯？请进",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯？请进」"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "再び貴賓室に戻る。志乃さんはノートＰＣに向かい、液晶画面から視線も上げない。",
+    "post_jp": "再び貴賓室に戻る。志乃さんはノートＰＣに向かい、液晶画面から視線も上げない。",
+    "pre_zh": "再次回到贵宾室。志乃小姐正对着笔记本电脑，目光没有从液晶屏幕上移开。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "再次回到贵宾室。志乃小姐正对着笔记本电脑，目光没有从液晶屏幕上移开。"
+  },
+  {
+    "index": 5,
+    "name": "恭介",
+    "pre_jp": "「これ、岸田さんから預かってきたんですけど」",
+    "post_jp": "これ、岸田さんから預かってきたんですけど",
+    "pre_zh": "这是岸田先生托我带来的",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「这是岸田先生托我带来的」"
+  },
+  {
+    "index": 6,
+    "name": "志乃",
+    "pre_jp": "「・・・ああ、それね。その辺りに置いといて」",
+    "post_jp": "・・・ああ、それね。その辺りに置いといて",
+    "pre_zh": "……啊，那个啊。放在那边就行",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……啊，那个啊。放在那边就行」"
+  },
+  {
+    "index": 7,
+    "name": "",
+    "pre_jp": "指だけこちらに伸ばしてその辺りと指さす。マスターキーの扱いがこんな適当でいいのだろうか。",
+    "post_jp": "指だけこちらに伸ばしてその辺りと指さす。マスターキーの扱いがこんな適当でいいのだろうか。",
+    "pre_zh": "只伸出手指向这边指了指那边。主钥匙就这么随意处理真的没问题吗。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "只伸出手指向这边指了指那边。主钥匙就这么随意处理真的没问题吗。"
+  },
+  {
+    "index": 8,
+    "name": "恭介",
+    "pre_jp": "「じゃあ、ここ置いときます」",
+    "post_jp": "じゃあ、ここ置いときます",
+    "pre_zh": "那我就放这儿了",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「那我就放这儿了」"
+  },
+  {
+    "index": 9,
+    "name": "志乃",
+    "pre_jp": "「ありがと」",
+    "post_jp": "ありがと",
+    "pre_zh": "谢啦",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「谢啦」"
+  },
+  {
+    "index": 10,
+    "name": "",
+    "pre_jp": "結局、志乃さんは振り向きもしない。この集中力は技術者ゆえのものなのか。",
+    "post_jp": "結局、志乃さんは振り向きもしない。この集中力は技術者ゆえのものなのか。",
+    "pre_zh": "结果，志乃小姐连头都没回。这种专注力是因为她是技术人员的缘故吗。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "结果，志乃小姐连头都没回。这种专注力是因为她是技术人员的缘故吗。"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "俺はひそかに肩をすくめて貴賓室を後にした。",
+    "post_jp": "俺はひそかに肩をすくめて貴賓室を後にした。",
+    "pre_zh": "悄悄耸了耸肩，离开了贵宾室。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "悄悄耸了耸肩，离开了贵宾室。"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "そうだ。確かに見た。その時の光景が鮮やかに浮かんでくる。",
+    "post_jp": "そうだ。確かに見た。その時の光景が鮮やかに浮かんでくる。",
+    "pre_zh": "没错。确实看到了。当时的景象清晰地浮现在脑海中。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "没错。确实看到了。当时的景象清晰地浮现在脑海中。"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "つい先ほど、隠し金庫の暗証番号の手がかりを探していた時のことだ。",
+    "post_jp": "つい先ほど、隠し金庫の暗証番号の手がかりを探していた時のことだ。",
+    "pre_zh": "就在刚才，寻找隐藏保险箱密码线索的时候。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "就在刚才，寻找隐藏保险箱密码线索的时候。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "船長の携帯を手に入れるようと遺体の懐に手を入れた時、死斑の浮いた胸元からこぼれ落ちた銀鎖・・・。",
+    "post_jp": "船長の携帯を手に入れるようと遺体の懐に手を入れた時、死斑の浮いた胸元からこぼれ落ちた銀鎖・・・。",
+    "pre_zh": "为了拿到船长的手机，把手伸进遗体怀里时，从浮现尸斑的胸前掉落的银链子……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "为了拿到船长的手机，把手伸进遗体怀里时，从浮现尸斑的胸前掉落的银链子……"
+  },
+  {
+    "index": 4,
+    "name": "恭介",
+    "pre_jp": "「・・・船長のペンダント」",
+    "post_jp": "・・・船長のペンダント",
+    "pre_zh": "……船长的吊坠",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……船长的吊坠」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "物は航行責任者。鍵は船長。思いついてみれば当たり前の構図だ。",
+    "post_jp": "物は航行責任者。鍵は船長。思いついてみれば当たり前の構図だ。",
+    "pre_zh": "物品归航行负责人。钥匙归船长。想想看，这是再明显不过的安排。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "物品归航行负责人。钥匙归船长。想想看，这是再明显不过的安排。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "言葉の意味がわからず、顔を見合わせている明乃と恵を置いて、俺は身をひるがえした。",
+    "post_jp": "言葉の意味がわからず、顔を見合わせている明乃と恵を置いて、俺は身をひるがえした。",
+    "pre_zh": "把不明白话中含义、面面相觑的明乃和惠留在原地，转身离开。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "把不明白话中含义、面面相觑的明乃和惠留在原地，转身离开。"
+  },
+  {
+    "index": 7,
+    "name": "明乃",
+    "pre_jp": "「あ、恭ちゃん！？」",
+    "post_jp": "あ、恭ちゃん！？",
+    "pre_zh": "啊，恭酱！？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊，恭酱！？」"
+  },
+  {
+    "index": 8,
+    "name": "恭介",
+    "pre_jp": "「ブリッジだ！！」",
+    "post_jp": "ブリッジだ！！",
+    "pre_zh": "驾驶舱！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「驾驶舱！！」"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "行き先だけを口にして、後は二人がついてくるかも見ずに走りだす。",
+    "post_jp": "行き先だけを口にして、後は二人がついてくるかも見ずに走りだす。",
+    "pre_zh": "只说了目的地，然后不管两人是否跟上就开始奔跑。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "只说了目的地，然后不管两人是否跟上就开始奔跑。"
+  }
+]

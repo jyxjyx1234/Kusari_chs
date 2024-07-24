@@ -1,0 +1,178 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "奴の姿が画面から消えた以上、下手にここを出ていくわけにもいかない。",
+    "post_jp": "奴の姿が画面から消えた以上、下手にここを出ていくわけにもいかない。",
+    "pre_zh": "那家伙的身影从画面上消失后，也不能贸然离开这里。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "那家伙的身影从画面上消失后，也不能贸然离开这里。"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "取りあえず室内で出来ること・・・俺はモニタールームの中を漁り始めてみる。",
+    "post_jp": "取りあえず室内で出来ること・・・俺はモニタールームの中を漁り始めてみる。",
+    "pre_zh": "姑且先做些室内能做的事……开始在监控室里翻找起来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "姑且先做些室内能做的事……开始在监控室里翻找起来。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "武器とは言わない。他にも役に立ちそうなものなら何でもいい。",
+    "post_jp": "武器とは言わない。他にも役に立ちそうなものなら何でもいい。",
+    "pre_zh": "不一定是武器。只要是看起来有用的东西就行。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "不一定是武器。只要是看起来有用的东西就行。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "ごそごそ物音を立てているから、珠美も気づいているはずだ。だが、珠美は俺を手伝う素振りも見せず、ひたすらモニター画面に向かっている。",
+    "post_jp": "ごそごそ物音を立てているから、珠美も気づいているはずだ。だが、珠美は俺を手伝う素振りも見せず、ひたすらモニター画面に向かっている。",
+    "pre_zh": "窸窸窣窣地发出声响，珠美应该也注意到了。但她并没有表现出要帮忙的样子，只是一个劲地盯着监视器画面。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "窸窸窣窣地发出声响，珠美应该也注意到了。但她并没有表现出要帮忙的样子，只是一个劲地盯着监视器画面。"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "いつまでもすねていないで・・・と、言いかけてやめる。",
+    "post_jp": "いつまでもすねていないで・・・と、言いかけてやめる。",
+    "pre_zh": "刚想说别一直闹别扭了……但又住了口。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "刚想说别一直闹别扭了……但又住了口。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "それはそれで悪いことじゃない。二人で探すよりも、一人がモニターに張りついていた方がいい。",
+    "post_jp": "それはそれで悪いことじゃない。二人で探すよりも、一人がモニターに張りついていた方がいい。",
+    "pre_zh": "这样也不坏。比起两个人一起找，还是有一个人盯着监视器比较好。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "这样也不坏。比起两个人一起找，还是有一个人盯着监视器比较好。"
+  },
+  {
+    "index": 7,
+    "name": "",
+    "pre_jp": "モニタールームは雑然としているが、部屋としてはさほど広大でもない。",
+    "post_jp": "モニタールームは雑然としているが、部屋としてはさほど広大でもない。",
+    "pre_zh": "监控室虽然杂乱，但作为房间并不算太大。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "监控室虽然杂乱，但作为房间并不算太大。"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "ざっと探し回って見つけためぼしいものを俺は床に並べた。",
+    "post_jp": "ざっと探し回って見つけためぼしいものを俺は床に並べた。",
+    "pre_zh": "大致搜寻了一圈，把找到的值得注意的东西排列在地板上。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "大致搜寻了一圈，把找到的值得注意的东西排列在地板上。"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "モップ。\\k\\nロープ。\\k\\n消火器。\\k以上。",
+    "post_jp": "モップ。　　ロープ。　　消火器。　以上。",
+    "pre_zh": "拖把。　　绳子。　　灭火器。　就这些。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "拖把。　　绳子。　　灭火器。　就这些。"
+  },
+  {
+    "index": 10,
+    "name": "",
+    "pre_jp": "軽く頭痛がしてくる。",
+    "post_jp": "軽く頭痛がしてくる。",
+    "pre_zh": "头隐隐作痛。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "头隐隐作痛。"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "まぁ、あまりあてにはしていなかったが。",
+    "post_jp": "まぁ、あまりあてにはしていなかったが。",
+    "pre_zh": "嘛，本来也没抱太大希望。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "嘛，本来也没抱太大希望。"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "さて、この中からどれを持っていくとするか。",
+    "post_jp": "さて、この中からどれを持っていくとするか。",
+    "pre_zh": "那么，该从这些东西里带上哪个呢。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "那么，该从这些东西里带上哪个呢。"
+  },
+  {
+    "index": 13,
+    "name": "",
+    "pre_jp": "俺はこれからの行動の方針を何となく思い浮かべてみた。",
+    "post_jp": "俺はこれからの行動の方針を何となく思い浮かべてみた。",
+    "pre_zh": "脑海中隐约浮现出接下来的行动方针。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "脑海中隐约浮现出接下来的行动方针。"
+  },
+  {
+    "index": 14,
+    "name": "",
+    "pre_jp": "臨機応変に",
+    "post_jp": "臨機応変に",
+    "pre_zh": "随机应变",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "随机应变"
+  },
+  {
+    "index": 15,
+    "name": "",
+    "pre_jp": "攻撃的に",
+    "post_jp": "攻撃的に",
+    "pre_zh": "采取攻势",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "采取攻势"
+  },
+  {
+    "index": 16,
+    "name": "",
+    "pre_jp": "もっと奥の方を探してみる",
+    "post_jp": "もっと奥の方を探してみる",
+    "pre_zh": "再往里面探索一下",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "再往里面探索一下"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "index": 1,
+    "name": "恵",
+    "pre_jp": "「待って」",
+    "post_jp": "待って",
+    "pre_zh": "等等",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「等等」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "行きかけた明乃を恵が止める。",
+    "post_jp": "行きかけた明乃を恵が止める。",
+    "pre_zh": "惠拦住了正要离开的明乃。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "惠拦住了正要离开的明乃。"
+  },
+  {
+    "index": 3,
+    "name": "恵",
+    "pre_jp": "「拳銃を置いていってもらえない？　そっちにはいらないものでしょ」",
+    "post_jp": "拳銃を置いていってもらえない？　そっちにはいらないものでしょ",
+    "pre_zh": "能把手枪留下吗？你那边应该用不着吧",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「能把手枪留下吗？你那边应该用不着吧」"
+  },
+  {
+    "index": 4,
+    "name": "明乃",
+    "pre_jp": "「あ・・・うん」",
+    "post_jp": "あ・・・うん",
+    "pre_zh": "啊……嗯",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊……嗯」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "明乃は俺に拳銃を差し出すものの、友則の視線に気づいて手を引っ込めてしまう。所在が宙ぶらりんになった拳銃を、横から言いだしっぺの恵がつまみ上げる。",
+    "post_jp": "明乃は俺に拳銃を差し出すものの、友則の視線に気づいて手を引っ込めてしまう。所在が宙ぶらりんになった拳銃を、横から言いだしっぺの恵がつまみ上げる。",
+    "pre_zh": "明乃正要把手枪递给我，却注意到友则的目光，又缩回了手。对于这把悬而未决的手枪，一旁提议的惠伸手拿了过去。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "明乃正要把手枪递给我，却注意到友则的目光，又缩回了手。对于这把悬而未决的手枪，一旁提议的惠伸手拿了过去。"
+  },
+  {
+    "index": 6,
+    "name": "恵",
+    "pre_jp": "「次に合流した時に返すから」",
+    "post_jp": "次に合流した時に返すから",
+    "pre_zh": "下次会合时还给你",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「下次会合时还给你」"
+  },
+  {
+    "index": 7,
+    "name": "明乃",
+    "pre_jp": "「うん、それじゃ・・・」",
+    "post_jp": "うん、それじゃ・・・",
+    "pre_zh": "嗯，那么……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯，那么……」"
+  }
+]

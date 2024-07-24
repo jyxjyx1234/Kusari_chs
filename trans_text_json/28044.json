@@ -1,0 +1,123 @@
+[
+  {
+    "index": 1,
+    "name": "ちはや",
+    "pre_jp": "「何か光るもの！　燃やすものでも何でもいいから！」",
+    "post_jp": "何か光るもの！　燃やすものでも何でもいいから！",
+    "pre_zh": "什么发光的东西！燃烧的东西也好，什么都行！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「什么发光的东西！燃烧的东西也好，什么都行！」"
+  },
+  {
+    "index": 2,
+    "name": "珠美",
+    "pre_jp": "「燃やす・・・明乃！　着てるもの脱げ！」",
+    "post_jp": "燃やす・・・明乃！　着てるもの脱げ！",
+    "pre_zh": "燃烧的……明乃！把身上穿的脱掉！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「燃烧的……明乃！把身上穿的脱掉！」"
+  },
+  {
+    "index": 3,
+    "name": "明乃",
+    "pre_jp": "「う、うん・・・あれ？」",
+    "post_jp": "う、うん・・・あれ？",
+    "pre_zh": "呃，嗯……咦？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「呃，嗯……咦？」"
+  },
+  {
+    "index": 4,
+    "name": "珠美",
+    "pre_jp": "「疑問を持つな、あたしも脱ぐ！」",
+    "post_jp": "疑問を持つな、あたしも脱ぐ！",
+    "pre_zh": "别犹豫，我也脱！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「别犹豫，我也脱！」"
+  },
+  {
+    "index": 5,
+    "name": "恭介",
+    "pre_jp": "「いいからやめんかっ！！　何やったって船内の明かりに勝てるかよ！！」",
+    "post_jp": "いいからやめんかっ！！　何やったって船内の明かりに勝てるかよ！！",
+    "pre_zh": "别闹了行不行！！无论做什么都比不过船内的灯光啊！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「别闹了行不行！！无论做什么都比不过船内的灯光啊！！」"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "無駄だと言いながらも、俺は大声を張り上げて必死に手を振る。",
+    "post_jp": "無駄だと言いながらも、俺は大声を張り上げて必死に手を振る。",
+    "pre_zh": "虽然嘴上说着没用，却还是扯开嗓子拼命挥手。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "虽然嘴上说着没用，却还是扯开嗓子拼命挥手。"
+  },
+  {
+    "index": 7,
+    "name": "恭介",
+    "pre_jp": "「おーい、こっちだーっ！！！」",
+    "post_jp": "おーい、こっちだーっ！！！",
+    "pre_zh": "喂——，这边——！！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「喂——，这边——！！！」"
+  },
+  {
+    "index": 8,
+    "name": "ちはや",
+    "pre_jp": "「助けてーっ！！！　お願い、こっちーっ！！！」",
+    "post_jp": "助けてーっ！！！　お願い、こっちーっ！！！",
+    "pre_zh": "救命啊——！！！拜托了，这边——！！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「救命啊——！！！拜托了，这边——！！！」"
+  },
+  {
+    "index": 9,
+    "name": "珠美",
+    "pre_jp": "「明乃、フェロモンを飛ばせ！　マリリンのように！」",
+    "post_jp": "明乃、フェロモンを飛ばせ！　マリリンのように！",
+    "pre_zh": "明乃，释放你的费洛蒙！像玛丽莲梦露那样！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「明乃，释放你的费洛蒙！像玛丽莲梦露那样！」"
+  },
+  {
+    "index": 10,
+    "name": "明乃",
+    "pre_jp": "「わかった！　あ、ふ〜〜〜ん♪」",
+    "post_jp": "わかった！　あ、ふ〜〜〜ん♪",
+    "pre_zh": "明白了！啊，呼～～～嗯♪",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「明白了！啊，呼～～～嗯♪」"
+  },
+  {
+    "index": 11,
+    "name": "恭介",
+    "pre_jp": "「だからやめろっっっ！！！」",
+    "post_jp": "だからやめろっっっ！！！",
+    "pre_zh": "都说了别这样啊！！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「都说了别这样啊！！！」"
+  }
+]

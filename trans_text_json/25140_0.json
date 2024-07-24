@@ -1,0 +1,91 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「・・・っ！　くそ！」",
+    "post_jp": "・・・っ！　くそ！",
+    "pre_zh": "……！妈的！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……！妈的！」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "無意識に船尾の方へ向かいかけ、足を止める。",
+    "post_jp": "無意識に船尾の方へ向かいかけ、足を止める。",
+    "pre_zh": "无意识地朝船尾方向走去，又停下脚步。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "无意识地朝船尾方向走去，又停下脚步。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "グリルには明乃たちがいる。そこに乱入されるわけにはいかない。",
+    "post_jp": "グリルには明乃たちがいる。そこに乱入されるわけにはいかない。",
+    "pre_zh": "烧烤区有明乃她们。不能贸然闯入那里。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "烧烤区有明乃她们。不能贸然闯入那里。"
+  },
+  {
+    "index": 4,
+    "name": "恵",
+    "pre_jp": "「こっちよ！」",
+    "post_jp": "こっちよ！",
+    "pre_zh": "这边！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「这边！」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "俺の考えを察したかのように、恵は俺の手を引いて甲板を目指した。",
+    "post_jp": "俺の考えを察したかのように、恵は俺の手を引いて甲板を目指した。",
+    "pre_zh": "仿佛看穿了心思，恵拉着手朝甲板走去。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "仿佛看穿了心思，恵拉着手朝甲板走去。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "波の音がやけに静かに感じられた。胸中で鼓動がやたらと騒がしい。",
+    "post_jp": "波の音がやけに静かに感じられた。胸中で鼓動がやたらと騒がしい。",
+    "pre_zh": "海浪声显得异常安静。胸中心跳却格外喧嚣。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "海浪声显得异常安静。胸中心跳却格外喧嚣。"
+  },
+  {
+    "index": 7,
+    "name": "",
+    "pre_jp": "俺と恵は物陰に潜み、船内からの出口を見張る。",
+    "post_jp": "俺と恵は物陰に潜み、船内からの出口を見張る。",
+    "pre_zh": "和恵躲在隐蔽处，监视着船内的出口。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "和恵躲在隐蔽处，监视着船内的出口。"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "奴の拳銃に、弾は残り一発。",
+    "post_jp": "奴の拳銃に、弾は残り一発。",
+    "pre_zh": "那家伙的手枪里，只剩下最后一发子弹。",
+    "proofread_zh": "",
+    "problem": "比日文长1.4倍",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "那家伙的手枪里，只剩下最后一发子弹。"
+  }
+]

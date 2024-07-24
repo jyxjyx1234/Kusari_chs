@@ -1,0 +1,68 @@
+[
+  {
+    "index": 1,
+    "name": "岸田",
+    "pre_jp": "「俺としては、まず小娘を仕留めたいところだがな！　小僧の前でたっぷりと泣き叫ばせてなぶり殺しにしてやる！」",
+    "post_jp": "俺としては、まず小娘を仕留めたいところだがな！　小僧の前でたっぷりと泣き叫ばせてなぶり殺しにしてやる！",
+    "pre_zh": "老子现在最想干掉的就是那小娘们！要在小鬼面前好好折磨她，让她哭爹喊娘，慢慢玩死她！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「老子现在最想干掉的就是那小娘们！要在小鬼面前好好折磨她，让她哭爹喊娘，慢慢玩死她！」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "恵の表情が強ばる。",
+    "post_jp": "恵の表情が強ばる。",
+    "pre_zh": "惠的表情变得僵硬。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "惠的表情变得僵硬。"
+  },
+  {
+    "index": 3,
+    "name": "岸田",
+    "pre_jp": "「目玉の礼はその後だ！」",
+    "post_jp": "目玉の礼はその後だ！",
+    "pre_zh": "挖你眼睛的报复待会儿再说！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「挖你眼睛的报复待会儿再说！」"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "岸田の右目のあたりが血まみれになっている。俺が刺したのがそこなのだろう。",
+    "post_jp": "岸田の右目のあたりが血まみれになっている。俺が刺したのがそこなのだろう。",
+    "pre_zh": "岸田右眼附近血肉模糊。大概是刚才刺中的地方。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田右眼附近血肉模糊。大概是刚才刺中的地方。"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "殺しきれなかったか！",
+    "post_jp": "殺しきれなかったか！",
+    "pre_zh": "没能一击毙命吗！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "没能一击毙命吗！"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "岸田は、左手には長剣を握り、まるで俺の目玉を貫くように振り立てる。",
+    "post_jp": "岸田は、左手には長剣を握り、まるで俺の目玉を貫くように振り立てる。",
+    "pre_zh": "岸田左手握着长剑，仿佛要刺穿眼球般朝这边挥来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田左手握着长剑，仿佛要刺穿眼球般朝这边挥来。"
+  }
+]

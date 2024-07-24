@@ -1,0 +1,35 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "今こそ俺の役に立ってほしいところだが、すでにちはやは入り口の遙か後方まで退去している。",
+    "post_jp": "今こそ俺の役に立ってほしいところだが、すでにちはやは入り口の遙か後方まで退去している。",
+    "pre_zh": "现在正是希望她能派上用场的时候，可千早已经退到了入口远处。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "现在正是希望她能派上用场的时候，可千早已经退到了入口远处。"
+  },
+  {
+    "index": 2,
+    "name": "ちはや",
+    "pre_jp": "「お兄ちゃぁ〜ん、ちゃんと隅々まで見てねぇ〜」",
+    "post_jp": "お兄ちゃぁ〜ん、ちゃんと隅々まで見てねぇ〜",
+    "pre_zh": "哥哥～要好好地看到每个角落哦～",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「哥哥～要好好地看到每个角落哦～」"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "鬼だ。あいつは。",
+    "post_jp": "鬼だ。あいつは。",
+    "pre_zh": "恶魔。那家伙是。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "恶魔。那家伙是。"
+  }
+]

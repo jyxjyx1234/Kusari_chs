@@ -1,0 +1,158 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "あああ",
+    "post_jp": "あああ",
+    "pre_zh": "啊啊啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "啊啊啊"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "てｓｔ",
+    "post_jp": "てｓｔ",
+    "pre_zh": "测试",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "测试"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "隔壁舵輪＋隔壁開く１",
+    "post_jp": "隔壁舵輪＋隔壁開く１",
+    "pre_zh": "隔板舵轮+隔板打开1",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "隔板舵轮+隔板打开1"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "隔壁舵輪＋隔壁開く２",
+    "post_jp": "隔壁舵輪＋隔壁開く２",
+    "pre_zh": "隔板舵轮+隔板打开2",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "隔板舵轮+隔板打开2"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "隔壁舵輪＋隔壁半開き",
+    "post_jp": "隔壁舵輪＋隔壁半開き",
+    "pre_zh": "隔板舵轮+隔板半开",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "隔板舵轮+隔板半开"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "斬撃横",
+    "post_jp": "斬撃横",
+    "pre_zh": "横向斩击",
+    "proofread_zh": "",
+    "problem": "比日文长1.3倍",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "横向斩击"
+  },
+  {
+    "index": 7,
+    "name": "",
+    "pre_jp": "斬撃横逆",
+    "post_jp": "斬撃横逆",
+    "pre_zh": "反向横斩",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "反向横斩"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "斬撃縦",
+    "post_jp": "斬撃縦",
+    "pre_zh": "纵向斩击",
+    "proofread_zh": "",
+    "problem": "比日文长1.3倍",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "纵向斩击"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "斬撃縦逆",
+    "post_jp": "斬撃縦逆",
+    "pre_zh": "反向纵斩",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "反向纵斩"
+  },
+  {
+    "index": 10,
+    "name": "",
+    "pre_jp": "斬撃斜め",
+    "post_jp": "斬撃斜め",
+    "pre_zh": "斜向斩击",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "斜向斩击"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "斬撃斜め逆",
+    "post_jp": "斬撃斜め逆",
+    "pre_zh": "反向斜斩",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "反向斜斩"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "血その０",
+    "post_jp": "血その０",
+    "pre_zh": "血迹0",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "血迹0"
+  },
+  {
+    "index": 13,
+    "name": "",
+    "pre_jp": "血その１",
+    "post_jp": "血その１",
+    "pre_zh": "血迹1",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "血迹1"
+  },
+  {
+    "index": 14,
+    "name": "",
+    "pre_jp": "血その２",
+    "post_jp": "血その２",
+    "pre_zh": "血迹2",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "血迹2"
+  }
+]

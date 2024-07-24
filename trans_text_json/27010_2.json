@@ -1,0 +1,57 @@
+[
+  {
+    "index": 1,
+    "name": "恵",
+    "pre_jp": "「でも・・・」",
+    "post_jp": "でも・・・",
+    "pre_zh": "但是……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「但是……」"
+  },
+  {
+    "index": 2,
+    "name": "恵",
+    "pre_jp": "「あなたならもしかしたら・・・」",
+    "post_jp": "あなたならもしかしたら・・・",
+    "pre_zh": "如果是你的话，也许……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「如果是你的话，也许……」"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "恵はふと薄い笑みを浮かべた。",
+    "post_jp": "恵はふと薄い笑みを浮かべた。",
+    "pre_zh": "惠突然露出一丝淡淡的微笑。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "惠突然露出一丝淡淡的微笑。"
+  },
+  {
+    "index": 4,
+    "name": "恵",
+    "pre_jp": "「待ってるから」",
+    "post_jp": "待ってるから",
+    "pre_zh": "我会等你的",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「我会等你的」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "不思議な言葉を残し、恵はオーブンのドアを開いた。すぐさま中にすべり込む。",
+    "post_jp": "不思議な言葉を残し、恵はオーブンのドアを開いた。すぐさま中にすべり込む。",
+    "pre_zh": "留下这句莫名其妙的话，惠打开了烤箱门。随即滑进了里面。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "留下这句莫名其妙的话，惠打开了烤箱门。随即滑进了里面。"
+  }
+]

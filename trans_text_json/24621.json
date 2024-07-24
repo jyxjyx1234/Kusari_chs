@@ -1,0 +1,136 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "俺はきびすを返してドアに向かった。",
+    "post_jp": "俺はきびすを返してドアに向かった。",
+    "pre_zh": "转身朝门口走去。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "转身朝门口走去。"
+  },
+  {
+    "index": 2,
+    "name": "ちはや",
+    "pre_jp": "「・・・！」",
+    "post_jp": "・・・！",
+    "pre_zh": "……！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……！」"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "その途端、ちはやは表情を強ばらせる。",
+    "post_jp": "その途端、ちはやは表情を強ばらせる。",
+    "pre_zh": "刹那间，千早的表情变得僵硬。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "刹那间，千早的表情变得僵硬。"
+  },
+  {
+    "index": 4,
+    "name": "恭介",
+    "pre_jp": "「心配するな、すぐに戻るから」",
+    "post_jp": "心配するな、すぐに戻るから",
+    "pre_zh": "别担心，我很快就回来",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「别担心，我很快就回来」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "ちはやは口をつぐんでコクリと頷く。それでも、視界の端でちはやは不満そうに顔をしかめていた。",
+    "post_jp": "ちはやは口をつぐんでコクリと頷く。それでも、視界の端でちはやは不満そうに顔をしかめていた。",
+    "pre_zh": "千早闭上嘴，轻轻点了点头。尽管如此，余光中还是看到她不满地皱着眉头。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "千早闭上嘴，轻轻点了点头。尽管如此，余光中还是看到她不满地皱着眉头。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "貴賓室を出て４Ｆに降りてきたところで、ふと足が止まる。４Ｆと５Ｆをつなぐひとつきりの階段からは、道が二つある。",
+    "post_jp": "貴賓室を出て４Ｆに降りてきたところで、ふと足が止まる。４Ｆと５Ｆをつなぐひとつきりの階段からは、道が二つある。",
+    "pre_zh": "离开贵宾室，刚下到4楼，突然停住了脚步。连接4楼和5楼的唯一楼梯处分出两条路。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "离开贵宾室，刚下到4楼，突然停住了脚步。连接4楼和5楼的唯一楼梯处分出两条路。"
+  },
+  {
+    "index": 7,
+    "name": "",
+    "pre_jp": "船首か船尾か。耳を澄ましても波音を越えて足音らしきものは聞こえてこなかった。",
+    "post_jp": "船首か船尾か。耳を澄ましても波音を越えて足音らしきものは聞こえてこなかった。",
+    "pre_zh": "船头还是船尾？竖起耳朵仔细听，也没有听到超过波浪声的脚步声。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "船头还是船尾？竖起耳朵仔细听，也没有听到超过波浪声的脚步声。"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "そもそも友則の目当てが何なのかわからない。",
+    "post_jp": "そもそも友則の目当てが何なのかわからない。",
+    "pre_zh": "更何况根本不知道友则的目标是什么。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "更何况根本不知道友则的目标是什么。"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "大方の用事なら船首にある大階段に向かうだろうが、もし船底へのハッチに向かったのなら船尾側だ。",
+    "post_jp": "大方の用事なら船首にある大階段に向かうだろうが、もし船底へのハッチに向かったのなら船尾側だ。",
+    "pre_zh": "如果是普通的事情，他应该会朝船首的大楼梯走去，但如果是前往船底的舱口，那就是船尾方向了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "如果是普通的事情，他应该会朝船首的大楼梯走去，但如果是前往船底的舱口，那就是船尾方向了。"
+  },
+  {
+    "index": 10,
+    "name": "",
+    "pre_jp": "船首へ",
+    "post_jp": "船首へ",
+    "pre_zh": "前往船首",
+    "proofread_zh": "",
+    "problem": "比日文长1.3倍",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "前往船首"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "船尾へ",
+    "post_jp": "船尾へ",
+    "pre_zh": "前往船尾",
+    "proofread_zh": "",
+    "problem": "比日文长1.3倍",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "前往船尾"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "追わない",
+    "post_jp": "追わない",
+    "pre_zh": "不追",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "不追"
+  }
+]

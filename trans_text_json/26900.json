@@ -1,0 +1,167 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "視界の半分を占める白い船体。",
+    "post_jp": "視界の半分を占める白い船体。",
+    "pre_zh": "白色的船体占据了视野的一半。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "白色的船体占据了视野的一半。"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "甲板にまで積み上げられた客室。",
+    "post_jp": "甲板にまで積み上げられた客室。",
+    "pre_zh": "客房一直堆叠到甲板上。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "客房一直堆叠到甲板上。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "この巨体が水に浮いていること自体が不思議だ。",
+    "post_jp": "この巨体が水に浮いていること自体が不思議だ。",
+    "pre_zh": "这庞然大物能浮在水面上本身就是个奇迹。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "这庞然大物能浮在水面上本身就是个奇迹。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "総排水量八万トン級。",
+    "post_jp": "総排水量八万トン級。",
+    "pre_zh": "总排水量八万吨级。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "总排水量八万吨级。"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "貴婦人に例えられる超大型客船は、赤いファンネルから斎場のような黒煙を立ち上らせていた。",
+    "post_jp": "貴婦人に例えられる超大型客船は、赤いファンネルから斎場のような黒煙を立ち上らせていた。",
+    "pre_zh": "这艘被比作贵妇人的超大型客轮，从红色烟囱里冒出如同火葬场般的黑烟。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "这艘被比作贵妇人的超大型客轮，从红色烟囱里冒出如同火葬场般的黑烟。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "あれから、まだ半日ほどしか経っていない。",
+    "post_jp": "あれから、まだ半日ほどしか経っていない。",
+    "pre_zh": "距那时才过去半天左右。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "距那时才过去半天左右。"
+  },
+  {
+    "index": 7,
+    "name": "",
+    "pre_jp": "この短時間に救助の船が駆けつけたのは、岸田がすでに無線機を復帰させていたからだった。",
+    "post_jp": "この短時間に救助の船が駆けつけたのは、岸田がすでに無線機を復帰させていたからだった。",
+    "pre_zh": "救援船能在如此短的时间内赶到，是因为岸田已经修复了无线电设备。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "救援船能在如此短的时间内赶到，是因为岸田已经修复了无线电设备。"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "じきに、客船の連絡艇が波を蹴立ててこちらに近づいてくる。",
+    "post_jp": "じきに、客船の連絡艇が波を蹴立ててこちらに近づいてくる。",
+    "pre_zh": "很快，客轮的联络艇就会激起浪花向这边驶来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "很快，客轮的联络艇就会激起浪花向这边驶来。"
+  },
+  {
+    "index": 9,
+    "name": "船員",
+    "pre_jp": "「お二人だけですか？」",
+    "post_jp": "お二人だけですか？",
+    "pre_zh": "就只有你们两个人吗？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「就只有你们两个人吗？」"
+  },
+  {
+    "index": 10,
+    "name": "ちはや",
+    "pre_jp": "「ええ、あたしたちだけです」",
+    "post_jp": "ええ、あたしたちだけです",
+    "pre_zh": "嗯，只有我们俩",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯，只有我们俩」"
+  },
+  {
+    "index": 11,
+    "name": "ちはや",
+    "pre_jp": "「海賊に襲われて・・・他の者は一人残らず」",
+    "post_jp": "海賊に襲われて・・・他の者は一人残らず",
+    "pre_zh": "被海盗袭击了……其他人全都……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「被海盗袭击了……其他人全都……」"
+  },
+  {
+    "index": 12,
+    "name": "ちはや",
+    "pre_jp": "「舵と無線機も壊されて、一時はどうしようかと。本当に助かりました」",
+    "post_jp": "舵と無線機も壊されて、一時はどうしようかと。本当に助かりました",
+    "pre_zh": "舵和无线电都被破坏了，一度不知该怎么办才好。真的得救了呢",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「舵和无线电都被破坏了，一度不知该怎么办才好。真的得救了呢」"
+  },
+  {
+    "index": 13,
+    "name": "ちはや",
+    "pre_jp": "「こんなに人がたくさんいる船に乗せていただいて」",
+    "post_jp": "こんなに人がたくさんいる船に乗せていただいて",
+    "pre_zh": "能登上这艘载着这么多人的船",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「能登上这艘载着这么多人的船」"
+  },
+  {
+    "index": 14,
+    "name": "ちはや",
+    "pre_jp": "『本当にたくさん・・・』",
+    "post_jp": "本当にたくさん・・・",
+    "pre_zh": "真的好多人啊……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "『真的好多人啊……』"
+  },
+  {
+    "index": 15,
+    "name": "ちはや",
+    "pre_jp": "『ね、お兄ちゃん』",
+    "post_jp": "ね、お兄ちゃん",
+    "pre_zh": "呐，哥哥",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "『呐，哥哥』"
+  }
+]

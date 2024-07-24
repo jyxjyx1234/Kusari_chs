@@ -1,0 +1,167 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "いい香りが漂ってくる。肉の焼ける匂いではない。発酵してた果実が醸し出す、鼻の奥まですべり込んでくる芳醇な香り・・・。",
+    "post_jp": "いい香りが漂ってくる。肉の焼ける匂いではない。発酵してた果実が醸し出す、鼻の奥まですべり込んでくる芳醇な香り・・・。",
+    "pre_zh": "一股香气飘来。不是肉类烤制的味道。是发酵水果散发出的醇厚香气，直钻入鼻腔深处……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "一股香气飘来。不是肉类烤制的味道。是发酵水果散发出的醇厚香气，直钻入鼻腔深处……"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "酒の匂いを辿っていくうち、得体の知れない物体を製造中の可憐に行き着く。",
+    "post_jp": "酒の匂いを辿っていくうち、得体の知れない物体を製造中の可憐に行き着く。",
+    "pre_zh": "循着酒香一路寻去，最终来到了可怜正在制作不明物体的地方。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "循着酒香一路寻去，最终来到了可怜正在制作不明物体的地方。"
+  },
+  {
+    "index": 3,
+    "name": "可憐",
+    "pre_jp": "「手伝わない人に食べる権利はないわよ」",
+    "post_jp": "手伝わない人に食べる権利はないわよ",
+    "pre_zh": "不帮忙的人没资格吃哦",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「不帮忙的人没资格吃哦」"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "ワインを手放すのを待っているのに、料理を待っているものだと勘違いされたようだ。",
+    "post_jp": "ワインを手放すのを待っているのに、料理を待っているものだと勘違いされたようだ。",
+    "pre_zh": "明明是在等她放下酒瓶，却被误会成在等着吃饭了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "明明是在等她放下酒瓶，却被误会成在等着吃饭了。"
+  },
+  {
+    "index": 5,
+    "name": "恭介",
+    "pre_jp": "「どの舌が言ってやがる。ちょっと料理の邪魔しているからって態度でかいぞ」",
+    "post_jp": "どの舌が言ってやがる。ちょっと料理の邪魔しているからって態度でかいぞ",
+    "pre_zh": "哪张嘴在说话啊。就因为我稍微妨碍了下你做菜就这么嚣张啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「哪张嘴在说话啊。就因为我稍微妨碍了下你做菜就这么嚣张啊」"
+  },
+  {
+    "index": 6,
+    "name": "可憐",
+    "pre_jp": "「邪魔じゃなくて手伝ってるのっ！　本当にあげないんだから！」",
+    "post_jp": "邪魔じゃなくて手伝ってるのっ！　本当にあげないんだから！",
+    "pre_zh": "不是妨碍是在帮忙！真的不会给你吃的！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「不是妨碍是在帮忙！真的不会给你吃的！」"
+  },
+  {
+    "index": 7,
+    "name": "恭介",
+    "pre_jp": "「いや、俺はお前がそれを手放すのを待ってるんだが」",
+    "post_jp": "いや、俺はお前がそれを手放すのを待ってるんだが",
+    "pre_zh": "不是，我是在等你放下那个东西",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「不是，我是在等你放下那个东西」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "可憐の手にあるワインを指さす。途端に可憐の表情が険しさを増した。",
+    "post_jp": "可憐の手にあるワインを指さす。途端に可憐の表情が険しさを増した。",
+    "pre_zh": "指了指可怜手中的酒瓶。顿时，可怜的表情变得更加严厉了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "指了指可怜手中的酒瓶。顿时，可怜的表情变得更加严厉了。"
+  },
+  {
+    "index": 9,
+    "name": "可憐",
+    "pre_jp": "「あんたはキャベツの芯でもかじってたらいいのよ」",
+    "post_jp": "あんたはキャベツの芯でもかじってたらいいのよ",
+    "pre_zh": "你就啃白菜帮子去吧",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「你就啃白菜帮子去吧」"
+  },
+  {
+    "index": 10,
+    "name": "恭介",
+    "pre_jp": "「そんなこと言ったら俺は野菜ばっかし食うぞ」",
+    "post_jp": "そんなこと言ったら俺は野菜ばっかし食うぞ",
+    "pre_zh": "你这么说的话我可就只吃蔬菜了啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「你这么说的话我可就只吃蔬菜了啊」"
+  },
+  {
+    "index": 11,
+    "name": "恭介",
+    "pre_jp": "「そしてお前は肉を食え」",
+    "post_jp": "そしてお前は肉を食え",
+    "pre_zh": "然后你就只能吃肉了",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「然后你就只能吃肉了」"
+  },
+  {
+    "index": 12,
+    "name": "恭介",
+    "pre_jp": "「肉だけ。肉のみ。胸焼けがしてもカルビを口に詰めこめ」",
+    "post_jp": "肉だけ。肉のみ。胸焼けがしてもカルビを口に詰めこめ",
+    "pre_zh": "只吃肉。光吃肉。就算胃烧心也要把烤肋排塞进嘴里",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「只吃肉。光吃肉。就算胃烧心也要把烤肋排塞进嘴里」"
+  },
+  {
+    "index": 13,
+    "name": "恭介",
+    "pre_jp": "<F48「綾小路は肉を食え！」>",
+    "post_jp": "<F48「綾小路は肉を食え！」>",
+    "pre_zh": "<F48「绫小路给我吃肉！」>",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "<F48「绫小路给我吃肉！」>"
+  },
+  {
+    "index": 14,
+    "name": "可憐",
+    "pre_jp": "<F48「綾之部よっ！！」>",
+    "post_jp": "<F48「綾之部よっ！！」>",
+    "pre_zh": "<F48「绫之部！！」>",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "<F48「绫之部！！」>"
+  },
+  {
+    "index": 15,
+    "name": "",
+    "pre_jp": "結局、可憐からアルコールを奪取することはできなかった。",
+    "post_jp": "結局、可憐からアルコールを奪取することはできなかった。",
+    "pre_zh": "结果，还是没能从可怜手中夺走酒精。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "结果，还是没能从可怜手中夺走酒精。"
+  }
+]

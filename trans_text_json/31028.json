@@ -1,0 +1,123 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「あがっ！？」",
+    "post_jp": "あがっ！？",
+    "pre_zh": "啊！？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊！？」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "異物が俺の後頭部から額へと突き抜けた。",
+    "post_jp": "異物が俺の後頭部から額へと突き抜けた。",
+    "pre_zh": "异物从后脑勺穿透到额头。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "异物从后脑勺穿透到额头。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "痛みはまだない。金属の固さだけが、頭の前と後ろで感じられた。",
+    "post_jp": "痛みはまだない。金属の固さだけが、頭の前と後ろで感じられた。",
+    "pre_zh": "还没有感到疼痛。只在头的前后感受到金属的坚硬。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "还没有感到疼痛。只在头的前后感受到金属的坚硬。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "脳に神経がないって本当だったんだ・・・。",
+    "post_jp": "脳に神経がないって本当だったんだ・・・。",
+    "pre_zh": "大脑没有神经这件事是真的啊……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "大脑没有神经这件事是真的啊……"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "奇妙な感覚だった。",
+    "post_jp": "奇妙な感覚だった。",
+    "pre_zh": "是种奇怪的感觉。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "是种奇怪的感觉。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "足元で火炎瓶が砕け、その炎が靴やズボンの裾を焼く。",
+    "post_jp": "足元で火炎瓶が砕け、その炎が靴やズボンの裾を焼く。",
+    "pre_zh": "脚边的燃烧瓶碎裂，火焰烧灼着鞋子和裤脚。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "脚边的燃烧瓶碎裂，火焰烧灼着鞋子和裤脚。"
+  },
+  {
+    "index": 7,
+    "name": "",
+    "pre_jp": "だが、熱さを感じる暇はなかった。",
+    "post_jp": "だが、熱さを感じる暇はなかった。",
+    "pre_zh": "但是，没有时间去感受灼热。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "但是，没有时间去感受灼热。"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "次の瞬間、目もくらまんばかりの激痛が前後から襲いかかり、脳をスクラップにする。",
+    "post_jp": "次の瞬間、目もくらまんばかりの激痛が前後から襲いかかり、脳をスクラップにする。",
+    "pre_zh": "下一瞬间，令人目眩的剧痛从前后袭来，将大脑撕成碎片。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "下一瞬间，令人目眩的剧痛从前后袭来，将大脑撕成碎片。"
+  },
+  {
+    "index": 9,
+    "name": "恭介",
+    "pre_jp": "「が・・・ご・・・」",
+    "post_jp": "が・・・ご・・・",
+    "pre_zh": "啊……呃……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊……呃……」"
+  },
+  {
+    "index": 10,
+    "name": "",
+    "pre_jp": "もはや悲鳴は出てこなかった。",
+    "post_jp": "もはや悲鳴は出てこなかった。",
+    "pre_zh": "已经无法发出惨叫了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "已经无法发出惨叫了。"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "<S0>意識が痛み一色で塗りつぶされ、次第にそれも薄れていった。<W90>",
+    "post_jp": "<S0>意識が痛み一色で塗りつぶされ、次第にそれも薄れていった。<W90>",
+    "pre_zh": "<S0>意识被痛苦完全覆盖，然后逐渐消散。<W90>",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "<S0>意识被痛苦完全覆盖，然后逐渐消散。<W90>"
+  }
+]

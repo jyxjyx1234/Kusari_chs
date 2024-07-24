@@ -1,0 +1,134 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "岸田の哄笑がコンクリートの壁に響き渡る。",
+    "post_jp": "岸田の哄笑がコンクリートの壁に響き渡る。",
+    "pre_zh": "岸田的狂笑在混凝土墙壁上回荡。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田的狂笑在混凝土墙壁上回荡。"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "志乃さんは部屋の隅で縮こまり震えている。",
+    "post_jp": "志乃さんは部屋の隅で縮こまり震えている。",
+    "pre_zh": "志乃蜷缩在房间角落里瑟瑟发抖。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "志乃蜷缩在房间角落里瑟瑟发抖。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "明乃は目を見張っている。",
+    "post_jp": "明乃は目を見張っている。",
+    "pre_zh": "明乃瞪大了眼睛。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "明乃瞪大了眼睛。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "その視線の先には、開ききった扉があった。",
+    "post_jp": "その視線の先には、開ききった扉があった。",
+    "pre_zh": "视线尽头是一扇完全敞开的门。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "视线尽头是一扇完全敞开的门。"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "俺は床に尻餅をついたまま立ち上がれない。",
+    "post_jp": "俺は床に尻餅をついたまま立ち上がれない。",
+    "pre_zh": "跌坐在地上，无法站起来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "跌坐在地上，无法站起来。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "ただ愕然として、覆いかぶさるような人影を見上げる。",
+    "post_jp": "ただ愕然として、覆いかぶさるような人影を見上げる。",
+    "pre_zh": "只能愕然地仰望那笼罩而来的人影。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "只能愕然地仰望那笼罩而来的人影。"
+  },
+  {
+    "index": 7,
+    "name": "岸田",
+    "pre_jp": "「終了だな」",
+    "post_jp": "終了だな",
+    "pre_zh": "结束了啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「结束了啊」"
+  },
+  {
+    "index": 8,
+    "name": "恭介",
+    "pre_jp": "「ぁ・・・ぁぁ・・・」",
+    "post_jp": "ぁ・・・ぁぁ・・・",
+    "pre_zh": "啊……啊啊……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊……啊啊……」"
+  },
+  {
+    "index": 9,
+    "name": "岸田",
+    "pre_jp": "「地獄へようこそ。薔薇色の地獄へ」",
+    "post_jp": "地獄へようこそ。薔薇色の地獄へ",
+    "pre_zh": "欢迎来到地狱。玫瑰色的地狱",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「欢迎来到地狱。玫瑰色的地狱」"
+  },
+  {
+    "index": 10,
+    "name": "",
+    "pre_jp": "黒い影が辺りを覆い尽くす。船内を浸食していく。",
+    "post_jp": "黒い影が辺りを覆い尽くす。船内を浸食していく。",
+    "pre_zh": "黑影笼罩了四周。侵蚀着船内。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "黑影笼罩了四周。侵蚀着船内。"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "もはや、最後の牙城も陥落した。後には一方的な暴虐が吹き荒れるのを、ただ震えて耐えるしかない。",
+    "post_jp": "もはや、最後の牙城も陥落した。後には一方的な暴虐が吹き荒れるのを、ただ震えて耐えるしかない。",
+    "pre_zh": "最后的堡垒也已沦陷。只能颤抖着忍受即将席卷而来的单方面暴行。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "最后的堡垒也已沦陷。只能颤抖着忍受即将席卷而来的单方面暴行。"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "<S0>・・・薔薇にも黒いのってあったよな。\\n実体化した恐怖を目の前にして、俺はどうでもいいことを思い浮かべていた。<W60>",
+    "post_jp": "<S0>・・・薔薇にも黒いのってあったよな。　実体化した恐怖を目の前にして、俺はどうでもいいことを思い浮かべていた。<W60>",
+    "pre_zh": "<S0>……玫瑰也有黑色的吧。面对眼前实体化的恐惧，脑海里却浮现出这种无关紧要的想法。<W60>",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "<S0>……玫瑰也有黑色的吧。面对眼前实体化的恐惧，脑海里却浮现出这种无关紧要的想法。<W60>"
+  }
+]

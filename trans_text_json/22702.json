@@ -1,0 +1,134 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "鍵・・・そうだ。確かに知っている。俺は知っているぞ。",
+    "post_jp": "鍵・・・そうだ。確かに知っている。俺は知っているぞ。",
+    "pre_zh": "钥匙……对了。确实知道。我记得。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "钥匙……对了。确实知道。我记得。"
+  },
+  {
+    "index": 2,
+    "name": "恵",
+    "pre_jp": "「あっ・・・」",
+    "post_jp": "あっ・・・",
+    "pre_zh": "啊……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊……」"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "同時に恵も思い出したようだ。そう、あの場には恵も一緒にいた。",
+    "post_jp": "同時に恵も思い出したようだ。そう、あの場には恵も一緒にいた。",
+    "pre_zh": "惠似乎也同时想起来了。没错，当时惠也在场。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "惠似乎也同时想起来了。没错，当时惠也在场。"
+  },
+  {
+    "index": 4,
+    "name": "恭介",
+    "pre_jp": "「船長の！」",
+    "post_jp": "船長の！",
+    "pre_zh": "船长的！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「船长的！」"
+  },
+  {
+    "index": 5,
+    "name": "恵",
+    "pre_jp": "「ペンダント！」",
+    "post_jp": "ペンダント！",
+    "pre_zh": "吊坠！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「吊坠！」"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "俺たちは口を揃えて言葉をつなげた。一人、明乃だけがキョトンとして状況を把握できていない。",
+    "post_jp": "俺たちは口を揃えて言葉をつなげた。一人、明乃だけがキョトンとして状況を把握できていない。",
+    "pre_zh": "异口同声地接上了话。只有明乃一个人一脸茫然，还没搞清状况。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "异口同声地接上了话。只有明乃一个人一脸茫然，还没搞清状况。"
+  },
+  {
+    "index": 7,
+    "name": "",
+    "pre_jp": "拳銃本体は航行責任者である志乃さんが、ケースの鍵は船長が所有する。考えてみれば至極妥当なシステムだ。",
+    "post_jp": "拳銃本体は航行責任者である志乃さんが、ケースの鍵は船長が所有する。考えてみれば至極妥当なシステムだ。",
+    "pre_zh": "枪本体由航行负责人志乃小姐保管，而保险箱的钥匙则由船长持有。仔细想想，这是再合理不过的制度。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "枪本体由航行负责人志乃小姐保管，而保险箱的钥匙则由船长持有。仔细想想，这是再合理不过的制度。"
+  },
+  {
+    "index": 8,
+    "name": "恭介",
+    "pre_jp": "「ブリッジに行くぞ！」",
+    "post_jp": "ブリッジに行くぞ！",
+    "pre_zh": "去驾驶室！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「去驾驶室！」"
+  },
+  {
+    "index": 9,
+    "name": "明乃",
+    "pre_jp": "「え〜〜〜」",
+    "post_jp": "え〜〜〜",
+    "pre_zh": "诶～～～",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「诶～～～」"
+  },
+  {
+    "index": 10,
+    "name": "",
+    "pre_jp": "明乃が露骨に怯えた顔をする。",
+    "post_jp": "明乃が露骨に怯えた顔をする。",
+    "pre_zh": "明乃露出了明显害怕的表情。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "明乃露出了明显害怕的表情。"
+  },
+  {
+    "index": 11,
+    "name": "明乃",
+    "pre_jp": "「お母さんのチョーカーじゃダメ？」",
+    "post_jp": "お母さんのチョーカーじゃダメ？",
+    "pre_zh": "妈妈的项圈不行吗？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「妈妈的项圈不行吗？」"
+  },
+  {
+    "index": 12,
+    "name": "恭介",
+    "pre_jp": "「何を言ってるんだ、お前は」",
+    "post_jp": "何を言ってるんだ、お前は",
+    "pre_zh": "你在说什么啊，你这家伙",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「你在说什么啊，你这家伙」"
+  }
+]

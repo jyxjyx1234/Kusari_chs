@@ -1,0 +1,24 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "（ん、針なら確か持ってたな）",
+    "post_jp": "（ん、針なら確か持ってたな）",
+    "pre_zh": "（嗯，针的话我记得是有的）",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "（嗯，针的话我记得是有的）"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "俺は小瓶にストローを差して床に置き、ポケットの中をまさぐる。",
+    "post_jp": "俺は小瓶にストローを差して床に置き、ポケットの中をまさぐる。",
+    "pre_zh": "把吸管插入小瓶中放在地板上，在口袋里摸索起来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "把吸管插入小瓶中放在地板上，在口袋里摸索起来。"
+  }
+]

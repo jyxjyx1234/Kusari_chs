@@ -1,0 +1,113 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "指にわずかな力を加えただけで、ダイヤルは滑るように回る。目盛り一つ分をオーバーしそうになり、俺は慌てて指を離した。",
+    "post_jp": "指にわずかな力を加えただけで、ダイヤルは滑るように回る。目盛り一つ分をオーバーしそうになり、俺は慌てて指を離した。",
+    "pre_zh": "只是稍微用力，转盘就滑溜溜地转动起来。眼看就要超过一格刻度，慌忙松开了手指。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "只是稍微用力，转盘就滑溜溜地转动起来。眼看就要超过一格刻度，慌忙松开了手指。"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "さて・・・。",
+    "post_jp": "さて・・・。",
+    "pre_zh": "那么……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "那么……"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "息をのみながら、金庫のレバーを握る。",
+    "post_jp": "息をのみながら、金庫のレバーを握る。",
+    "pre_zh": "屏住呼吸，握住保险箱的把手。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "屏住呼吸，握住保险箱的把手。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "がちゃがちゃ。",
+    "post_jp": "がちゃがちゃ。",
+    "pre_zh": "咔嗒咔嗒。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "咔嗒咔嗒。"
+  },
+  {
+    "index": 5,
+    "name": "恭介",
+    "pre_jp": "「・・・・・・」",
+    "post_jp": "・・・・・・",
+    "pre_zh": "……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……」"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "動かない。",
+    "post_jp": "動かない。",
+    "pre_zh": "纹丝不动。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "纹丝不动。"
+  },
+  {
+    "index": 7,
+    "name": "明乃",
+    "pre_jp": "「ダメじゃん」",
+    "post_jp": "ダメじゃん",
+    "pre_zh": "不行嘛",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「不行嘛」"
+  },
+  {
+    "index": 8,
+    "name": "恭介",
+    "pre_jp": "「偉そうに言うな」",
+    "post_jp": "偉そうに言うな",
+    "pre_zh": "别一副高高在上的样子",
+    "proofread_zh": "",
+    "problem": "比日文长1.3倍",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「别一副高高在上的样子」"
+  },
+  {
+    "index": 9,
+    "name": "明乃",
+    "pre_jp": "「やっぱり左だったんだよ」",
+    "post_jp": "やっぱり左だったんだよ",
+    "pre_zh": "果然是左边啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「果然是左边啊」"
+  },
+  {
+    "index": 10,
+    "name": "恭介",
+    "pre_jp": "「やっぱりとか言うな」",
+    "post_jp": "やっぱりとか言うな",
+    "pre_zh": "别说什么果然啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「别说什么果然啊」"
+  }
+]

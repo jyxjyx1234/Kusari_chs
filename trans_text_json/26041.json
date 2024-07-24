@@ -1,0 +1,90 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "カチャリと金属の音がする。振り向かなくてもそれが何なのか、俺には察しがついた。",
+    "post_jp": "カチャリと金属の音がする。振り向かなくてもそれが何なのか、俺には察しがついた。",
+    "pre_zh": "咔嚓一声金属声响起。即使不回头也能猜到那是什么。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "咔嚓一声金属声响起。即使不回头也能猜到那是什么。"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "俺の持ち物から手錠を見つけた岸田は、それを手に近づいてくる。",
+    "post_jp": "俺の持ち物から手錠を見つけた岸田は、それを手に近づいてくる。",
+    "pre_zh": "岸田从我的随身物品中找到了手铐，拿着它向我走来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田从我的随身物品中找到了手铐，拿着它向我走来。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "だが、それでも俺はちはやとのつながりを続けた。",
+    "post_jp": "だが、それでも俺はちはやとのつながりを続けた。",
+    "pre_zh": "但即便如此，仍然继续与千早保持着联系。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "但即便如此，仍然继续与千早保持着联系。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "俺の真後ろで足音が止まった。",
+    "post_jp": "俺の真後ろで足音が止まった。",
+    "pre_zh": "脚步声在正后方停下。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "脚步声在正后方停下。"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "カチッ。",
+    "post_jp": "カチッ。",
+    "pre_zh": "咔。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "咔。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "俺の手首に手錠がはめられる。もう一方はすぐそばの作業台の足に繋がれる。",
+    "post_jp": "俺の手首に手錠がはめられる。もう一方はすぐそばの作業台の足に繋がれる。",
+    "pre_zh": "手铐被铐在手腕上。另一端则连接在旁边工作台的腿上。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "手铐被铐在手腕上。另一端则连接在旁边工作台的腿上。"
+  },
+  {
+    "index": 7,
+    "name": "岸田",
+    "pre_jp": "「くく・・・く、くく・・・っ」",
+    "post_jp": "くく・・・く、くく・・・っ",
+    "pre_zh": "呵呵…呵，呵呵…",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「呵呵…呵，呵呵…」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "しつこく忍び笑いをもらしながら、岸田はあえて何の感想も漏らさずにウィンチルームを出ていく。",
+    "post_jp": "しつこく忍び笑いをもらしながら、岸田はあえて何の感想も漏らさずにウィンチルームを出ていく。",
+    "pre_zh": "岸田一边不停地发出窃笑，一边故意不发表任何评论就离开了绞盘室。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田一边不停地发出窃笑，一边故意不发表任何评论就离开了绞盘室。"
+  }
+]

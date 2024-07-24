@@ -1,0 +1,167 @@
+[
+  {
+    "index": 1,
+    "name": "恭介",
+    "pre_jp": "「・・・明乃」",
+    "post_jp": "・・・明乃",
+    "pre_zh": "……明乃",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……明乃」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "名前を呼ばれた明乃はきょとんとしている。",
+    "post_jp": "名前を呼ばれた明乃はきょとんとしている。",
+    "pre_zh": "被叫到名字的明乃一脸茫然。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "被叫到名字的明乃一脸茫然。"
+  },
+  {
+    "index": 3,
+    "name": "恵",
+    "pre_jp": "「拳銃よ。あんたが持ってるんでしょ」",
+    "post_jp": "拳銃よ。あんたが持ってるんでしょ",
+    "pre_zh": "手枪。你拿着呢吧",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「手枪。你拿着呢吧」"
+  },
+  {
+    "index": 4,
+    "name": "明乃",
+    "pre_jp": "「え？　あ、うん。・・・えっと・・・」",
+    "post_jp": "え？　あ、うん。・・・えっと・・・",
+    "pre_zh": "啊？哦，嗯。……那个……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊？哦，嗯。……那个……」"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "明乃は拳銃を取り出し、両手でひねくり返す。",
+    "post_jp": "明乃は拳銃を取り出し、両手でひねくり返す。",
+    "pre_zh": "明乃掏出手枪，双手笨拙地摆弄着。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "明乃掏出手枪，双手笨拙地摆弄着。"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "セイフティを解除しなければ弾が出ないということは理解しているらしく、ようやく見つけたボタンを大げさな動作で押し込む。",
+    "post_jp": "セイフティを解除しなければ弾が出ないということは理解しているらしく、ようやく見つけたボタンを大げさな動作で押し込む。",
+    "pre_zh": "似乎明白如果不解除保险就不会射出子弹，终于找到按钮后，夸张地用力按了下去。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "似乎明白如果不解除保险就不会射出子弹，终于找到按钮后，夸张地用力按了下去。"
+  },
+  {
+    "index": 7,
+    "name": "明乃",
+    "pre_jp": "「わ、わわっ！？」",
+    "post_jp": "わ、わわっ！？",
+    "pre_zh": "哇，哇哇！？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「哇，哇哇！？」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "明乃の足元にストンと弾倉が落下する。驚いてその場から飛び退いた明乃は、なぜそうなったのかもわからず、やたらめったらと拳銃をいじくりだす。",
+    "post_jp": "明乃の足元にストンと弾倉が落下する。驚いてその場から飛び退いた明乃は、なぜそうなったのかもわからず、やたダメたらと拳銃をいじくりだす。",
+    "pre_zh": "弹夹咚地一声掉在明乃脚边。吓得从原地跳开的明乃，不明白为什么会这样，又开始胡乱摆弄起手枪来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "弹夹咚地一声掉在明乃脚边。吓得从原地跳开的明乃，不明白为什么会这样，又开始胡乱摆弄起手枪来。"
+  },
+  {
+    "index": 9,
+    "name": "恭介",
+    "pre_jp": "「お、おい」",
+    "post_jp": "お、おい",
+    "pre_zh": "喂、喂",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「喂、喂」"
+  },
+  {
+    "index": 10,
+    "name": "恵",
+    "pre_jp": "「・・・」",
+    "post_jp": "・・・",
+    "pre_zh": "……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……」"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "恵は無言で明乃から拳銃を取り上げると、弾倉を戻して遊底を引き、セイフティを解除した。",
+    "post_jp": "恵は無言で明乃から拳銃を取り上げると、弾倉を戻して遊底を引き、セイフティを解除した。",
+    "pre_zh": "惠默默地从明乃手中夺过手枪，装回弹夹，拉动套筒，解除保险。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "惠默默地从明乃手中夺过手枪，装回弹夹，拉动套筒，解除保险。"
+  },
+  {
+    "index": 12,
+    "name": "明乃",
+    "pre_jp": "「あ・・・」",
+    "post_jp": "あ・・・",
+    "pre_zh": "啊……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊……」"
+  },
+  {
+    "index": 13,
+    "name": "",
+    "pre_jp": "明乃は呆然として、手の中から消えた拳銃を眺めている。",
+    "post_jp": "明乃は呆然として、手の中から消えた拳銃を眺めている。",
+    "pre_zh": "明乃呆呆地盯着从手中消失的手枪。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "明乃呆呆地盯着从手中消失的手枪。"
+  },
+  {
+    "index": 14,
+    "name": "明乃",
+    "pre_jp": "「お願いします・・・」",
+    "post_jp": "お願いします・・・",
+    "pre_zh": "拜托了……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「拜托了……」"
+  },
+  {
+    "index": 15,
+    "name": "",
+    "pre_jp": "元より拳銃を持つのを嫌がっていた明乃だが、恵があっさりと取り上げて、誰からも文句が出ないのには少し不満のようだった。",
+    "post_jp": "元より拳銃を持つのを嫌がっていた明乃だが、恵があっさりと取り上げて、誰からも文句が出ないのには少し不満のようだった。",
+    "pre_zh": "本就不愿持枪的明乃，看到惠如此轻易地夺走手枪，却没人提出异议，似乎有些不满。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "本就不愿持枪的明乃，看到惠如此轻易地夺走手枪，却没人提出异议，似乎有些不满。"
+  }
+]

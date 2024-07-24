@@ -1,0 +1,27 @@
+あけの	明乃	name,girl
+おりはら	折原	name,girl
+明乃	明乃	name,girl
+折原	折原	name,girl
+可憐	可怜	name,girl
+綾之部	绫之部	name,girl
+あやのべ	绫之部	name,girl
+かれん	可怜	name,girl
+珠美	珠美	name,girl
+たまみ	珠美	name,girl
+片桐	片桐	name,girl
+恵	恵	name,girl
+かたぎり	片桐	name,girl
+めぐみ	恵	name,girl
+香月	香月	last name of 香月恭介(boy) and 香月ちはや(girl)
+ちはや	千早	name,girl,little sister of 香月恭介
+こうづき	香月	last name of 香月恭介(boy) and 香月ちはや(girl)
+恭介	恭介	name,boy
+バシリスク	巴西利斯克	name of a boat
+岸田	岸田	name
+洋一	洋一	name
+志乃	志乃	name,mother of 折原明乃
+きょうすけ	恭介	name
+きょうす、け	恭介	name
+友則	友则	name,boy
+早間	早间	name,boy
+とものり	友则	name,boy

@@ -1,0 +1,134 @@
+[
+  {
+    "index": 1,
+    "name": "恵",
+    "pre_jp": "「・・・」",
+    "post_jp": "・・・",
+    "pre_zh": "……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……」"
+  },
+  {
+    "index": 2,
+    "name": "ちはや",
+    "pre_jp": "「ひぁ！？　あ・・・ごめんなさい」",
+    "post_jp": "ひぁ！？　あ・・・ごめんなさい",
+    "pre_zh": "嗯啊！？啊……对不起",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯啊！？啊……对不起」"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "ドアのところに立っていたちはやが慌てて飛びのく。",
+    "post_jp": "ドアのところに立っていたちはやが慌てて飛びのく。",
+    "pre_zh": "站在门口的千早慌忙跳开。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "站在门口的千早慌忙跳开。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "今までどこに行っていたのか、恵は室内の様子に軽く一瞥をくれると、うろんな目つきのまま俺に目をとめる。",
+    "post_jp": "今までどこに行っていたのか、恵は室内の様子に軽く一瞥をくれると、うろんな目つきのまま俺に目をとめる。",
+    "pre_zh": "不知刚才去了哪里，惠轻瞥了一眼室内的情况，带着狐疑的眼神将目光停留在我身上。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "不知刚才去了哪里，惠轻瞥了一眼室内的情况，带着狐疑的眼神将目光停留在我身上。"
+  },
+  {
+    "index": 5,
+    "name": "恵",
+    "pre_jp": "「水の出が悪いの」",
+    "post_jp": "水の出が悪いの",
+    "pre_zh": "水流不畅",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「水流不畅」"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "いきなり事実から入る。",
+    "post_jp": "いきなり事実から入る。",
+    "pre_zh": "突然就切入正题。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "突然就切入正题。"
+  },
+  {
+    "index": 7,
+    "name": "恵",
+    "pre_jp": "「ちょっとお兄さん借りるわね」",
+    "post_jp": "ちょっとお兄さん借りるわね",
+    "pre_zh": "借用一下哦，大哥",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「借用一下哦，大哥」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "恵はドアのところで半身になり、出入り口のスペースを半分開ける。",
+    "post_jp": "恵はドアのところで半身になり、出入り口のスペースを半分開ける。",
+    "pre_zh": "惠在门口侧身，将出入口的空间打开了一半。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "惠在门口侧身，将出入口的空间打开了一半。"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "先ほどは明乃に、お兄ちゃんを便利扱いしないでと叫んだちはやだったが、恵の異様な存在感に気圧されて口をつぐんでいる。",
+    "post_jp": "先ほどは明乃に、お兄ちゃんを便利扱いしないでと叫んだちはやだったが、恵の異様な存在感に気圧されて口をつぐんでいる。",
+    "pre_zh": "刚才还对明乃大喊不要把哥哥当成方便工具的千早，此刻却被惠异常的存在感压得说不出话来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "刚才还对明乃大喊不要把哥哥当成方便工具的千早，此刻却被惠异常的存在感压得说不出话来。"
+  },
+  {
+    "index": 10,
+    "name": "",
+    "pre_jp": "俺が立ち上がるのを確かめてから、恵は早々と先に立って歩きだした。",
+    "post_jp": "俺が立ち上がるのを確かめてから、恵は早々と先に立って歩きだした。",
+    "pre_zh": "确认我站起身后，惠很快就走在前头离开了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "确认我站起身后，惠很快就走在前头离开了。"
+  },
+  {
+    "index": 11,
+    "name": "明乃",
+    "pre_jp": "「あっ・・・」",
+    "post_jp": "あっ・・・",
+    "pre_zh": "啊……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊……」"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "一瞬、追うような手つきをする明乃。その名残惜しそうな表情から、俺は志乃さんの出来事をごまかせたと確信した。",
+    "post_jp": "一瞬、追うような手つきをする明乃。その名残惜しそうな表情から、俺は志乃さんの出来事をごまかせたと確信した。",
+    "pre_zh": "明乃一瞬间做出想追上去的手势。从她那依依不舍的表情，确信成功糊弄过了志乃小姐的事。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "明乃一瞬间做出想追上去的手势。从她那依依不舍的表情，确信成功糊弄过了志乃小姐的事。"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "index": 1,
+    "name": "ちはや",
+    "pre_jp": "「はい、お兄ちゃん」",
+    "post_jp": "はい、お兄ちゃん",
+    "pre_zh": "好的，哥哥",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「好的，哥哥」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "そう言ってＹシャツを渡される。何のことかわからず、ちょっと脳みそが止まっていたが、すぐに思い出す。",
+    "post_jp": "そう言ってＹシャツを渡される。何のことかわからず、ちょっと脳みそが止まっていたが、すぐに思い出す。",
+    "pre_zh": "说着，她递给我一件衬衫。一时没反应过来是怎么回事，大脑有点短路，但很快就想起来了。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "说着，她递给我一件衬衫。一时没反应过来是怎么回事，大脑有点短路，但很快就想起来了。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "そうだ、ちはやに繕い物を頼んでいたんだな。",
+    "post_jp": "そうだ、ちはやに繕い物を頼んでいたんだな。",
+    "pre_zh": "对了，之前拜托千早帮忙缝补来着。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "对了，之前拜托千早帮忙缝补来着。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "俺は礼を言ってＹシャツを受け取り、袖を通した。",
+    "post_jp": "俺は礼を言ってＹシャツを受け取り、袖を通した。",
+    "pre_zh": "道了声谢，接过衬衫，穿上袖子。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "道了声谢，接过衬衫，穿上袖子。"
+  },
+  {
+    "index": 5,
+    "name": "恭介",
+    "pre_jp": "「うっ！？」",
+    "post_jp": "うっ！？",
+    "pre_zh": "呃！？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「呃！？」"
+  },
+  {
+    "index": 6,
+    "name": "ちはや",
+    "pre_jp": "「ど、どうしたの！？」",
+    "post_jp": "ど、どうしたの！？",
+    "pre_zh": "怎、怎么了！？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「怎、怎么了！？」"
+  },
+  {
+    "index": 7,
+    "name": "恭介",
+    "pre_jp": "「は、針が・・・」",
+    "post_jp": "は、針が・・・",
+    "pre_zh": "针、针・・・",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「针、针···」"
+  },
+  {
+    "index": 8,
+    "name": "",
+    "pre_jp": "そのまま悶絶する。ちはやは慌てて俺に取りすがった。",
+    "post_jp": "そのまま悶絶する。ちはやは慌てて俺に取りすがった。",
+    "pre_zh": "就这样痛苦地倒下了。千早慌忙扑到身上。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "就这样痛苦地倒下了。千早慌忙扑到身上。"
+  },
+  {
+    "index": 9,
+    "name": "ちはや",
+    "pre_jp": "「え、え！？　まち針が残ってた！？」",
+    "post_jp": "え、え！？　まち針が残ってた！？",
+    "pre_zh": "诶、诶！？还留着固定针吗！？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「诶、诶！？还留着固定针吗！？」"
+  },
+  {
+    "index": 10,
+    "name": "恭介",
+    "pre_jp": "「・・・くっ、くく」",
+    "post_jp": "・・・くっ、くく",
+    "pre_zh": "……咕、咕咕",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……咕、咕咕」"
+  },
+  {
+    "index": 11,
+    "name": "ちはや",
+    "pre_jp": "「え・・・」",
+    "post_jp": "え・・・",
+    "pre_zh": "诶……",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「诶……」"
+  },
+  {
+    "index": 12,
+    "name": "恭介",
+    "pre_jp": "「うっそ」",
+    "post_jp": "うっそ",
+    "pre_zh": "骗你的啦",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「骗你的啦」"
+  },
+  {
+    "index": 13,
+    "name": "ちはや",
+    "pre_jp": "「もおっ！！\\nお兄ちゃんってば、またそーゆーこと！！」",
+    "post_jp": "もおっ！！　お兄ちゃんってば、またそーゆーこと！！",
+    "pre_zh": "真是的！！哥哥你又来这一套！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「真是的！！哥哥你又来这一套！！」"
+  },
+  {
+    "index": 14,
+    "name": "",
+    "pre_jp": "力のこもらない平手打ちを笑いながら受け止める。",
+    "post_jp": "力のこもらない平手打ちを笑いながら受け止める。",
+    "pre_zh": "笑着接下了她软绵绵的巴掌。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "笑着接下了她软绵绵的巴掌。"
+  },
+  {
+    "index": 15,
+    "name": "",
+    "pre_jp": "家事全般に渡って苦手な可憐ならありそうな話だが、\\nことちはやに関してはその手の抜かりはない。",
+    "post_jp": "家事全般に渡って苦手な可憐ならありそうな話だが、　ことちはやに関してはその手の抜かりはない。",
+    "pre_zh": "要是可怜的话，在各种家务上都有可能出这种纰漏，但对千早来说，这方面绝不会有任何疏忽。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "要是可怜的话，在各种家务上都有可能出这种纰漏，但对千早来说，这方面绝不会有任何疏忽。"
+  }
+]

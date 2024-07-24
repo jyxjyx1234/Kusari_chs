@@ -1,0 +1,156 @@
+[
+  {
+    "index": 1,
+    "name": "ちはや",
+    "pre_jp": "「きれいだね、お兄ちゃん」",
+    "post_jp": "きれいだね、お兄ちゃん",
+    "pre_zh": "真漂亮啊，哥哥",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「真漂亮啊，哥哥」"
+  },
+  {
+    "index": 2,
+    "name": "",
+    "pre_jp": "傍らにはちはやが立っていた。",
+    "post_jp": "傍らにはちはやが立っていた。",
+    "pre_zh": "千早站在身旁。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "千早站在身旁。"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "俺は花火を見上げながら、ちはやの様子を盗み見る。",
+    "post_jp": "俺は花火を見上げながら、ちはやの様子を盗み見る。",
+    "pre_zh": "仰望烟花的同时，偷偷瞥了眼千早的样子。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "仰望烟花的同时，偷偷瞥了眼千早的样子。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "そういえば言いそびれていたな。",
+    "post_jp": "そういえば言いそびれていたな。",
+    "pre_zh": "说起来差点忘了说。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "说起来差点忘了说。"
+  },
+  {
+    "index": 5,
+    "name": "",
+    "pre_jp": "俺は照れを抑えてちはやに囁いた。",
+    "post_jp": "俺は照れを抑えてちはやに囁いた。",
+    "pre_zh": "压抑住害羞，对千早轻声说道。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "压抑住害羞，对千早轻声说道。"
+  },
+  {
+    "index": 6,
+    "name": "恭介",
+    "pre_jp": "「誕生日、おめでとう」",
+    "post_jp": "誕生日、おめでとう",
+    "pre_zh": "生日快乐",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「生日快乐」"
+  },
+  {
+    "index": 7,
+    "name": "ちはや",
+    "pre_jp": "「ん？　なに？」",
+    "post_jp": "ん？　なに？",
+    "pre_zh": "嗯？什么？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯？什么？」"
+  },
+  {
+    "index": 8,
+    "name": "恭介",
+    "pre_jp": "「いや」",
+    "post_jp": "いや",
+    "pre_zh": "没什么",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「没什么」"
+  },
+  {
+    "index": 9,
+    "name": "",
+    "pre_jp": "花火の白い光に照らし出されたちはやの横顔にドキリとさせられ、俺は慌てて顔をそむけた。",
+    "post_jp": "花火の白い光に照らし出されたちはやの横顔にドキリとさせられ、俺は慌てて顔をそむけた。",
+    "pre_zh": "被烟花的白光照亮的千早的侧脸让我心跳加速，慌忙转过头去。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "被烟花的白光照亮的千早的侧脸让我心跳加速，慌忙转过头去。"
+  },
+  {
+    "index": 10,
+    "name": "恭介",
+    "pre_jp": "「何でもない」",
+    "post_jp": "何でもない",
+    "pre_zh": "没什么",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「没什么」"
+  },
+  {
+    "index": 11,
+    "name": "",
+    "pre_jp": "すぐに言い直すのも何だか照れくさい。俺はしばらく花火に見とれることにした。",
+    "post_jp": "すぐに言い直すのも何だか照れくさい。俺はしばらく花火に見とれることにした。",
+    "pre_zh": "立即改口又感到有些害羞。决定暂时专注于欣赏烟花。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "立即改口又感到有些害羞。决定暂时专注于欣赏烟花。"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "やがて花火が終わり、辺りは元の闇に包まれる。",
+    "post_jp": "やがて花火が終わり、辺りは元の闇に包まれる。",
+    "pre_zh": "不久烟花结束，四周重新被黑暗笼罩。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "不久烟花结束，四周重新被黑暗笼罩。"
+  },
+  {
+    "index": 13,
+    "name": "恭介",
+    "pre_jp": "「明かりは点かないのか・・・？」",
+    "post_jp": "明かりは点かないのか・・・？",
+    "pre_zh": "灯光不会亮起来吗……？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「灯光不会亮起来吗……？」"
+  },
+  {
+    "index": 14,
+    "name": "",
+    "pre_jp": "光の花が尽きても船内の明かりは回復しなかった。",
+    "post_jp": "光の花が尽きても船内の明かりは回復しなかった。",
+    "pre_zh": "即使光之花绽放完毕，船内的灯光也没有恢复。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "即使光之花绽放完毕，船内的灯光也没有恢复。"
+  }
+]

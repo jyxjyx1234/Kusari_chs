@@ -1,0 +1,167 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "岸田は軽く手を挙げたまま、ゆっくりと俺たちの方へ歩いてくる。",
+    "post_jp": "岸田は軽く手を挙げたまま、ゆっくりと俺たちの方へ歩いてくる。",
+    "pre_zh": "岸田轻轻举起手，缓缓朝我们这边走来。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田轻轻举起手，缓缓朝我们这边走来。"
+  },
+  {
+    "index": 2,
+    "name": "恭介",
+    "pre_jp": "「っ！」",
+    "post_jp": "っ！",
+    "pre_zh": "嘶！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嘶！」"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "戸惑う。歩みが早い。撃つか、撃つのか、いつ撃つんだ？？？",
+    "post_jp": "戸惑う。歩みが早い。撃つか、撃つのか、いつ撃つんだ？？？",
+    "pre_zh": "犹豫不决。步伐太快。开枪吗，要开枪吗，什么时候开枪？？？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "犹豫不决。步伐太快。开枪吗，要开枪吗，什么时候开枪？？？"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "覚悟が足りない自分に、いきなり気づかされる。俺は声をうわずらせた。",
+    "post_jp": "覚悟が足りない自分に、いきなり気づかされる。俺は声をうわずらせた。",
+    "pre_zh": "突然意识到自己的觉悟不够。声音变得尖锐。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "突然意识到自己的觉悟不够。声音变得尖锐。"
+  },
+  {
+    "index": 5,
+    "name": "恭介",
+    "pre_jp": "「そこだ！！　そこで止まれ！！」",
+    "post_jp": "そこだ！！　そこで止まれ！！",
+    "pre_zh": "就那里！！ 给我站住！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「就那里！！ 给我站住！！」"
+  },
+  {
+    "index": 6,
+    "name": "",
+    "pre_jp": "岸田は余裕の様子で薄笑いを浮かべている。",
+    "post_jp": "岸田は余裕の様子で薄笑いを浮かべている。",
+    "pre_zh": "岸田一副从容的样子，嘴角挂着淡淡的笑意。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田一副从容的样子，嘴角挂着淡淡的笑意。"
+  },
+  {
+    "index": 7,
+    "name": "",
+    "pre_jp": "だが、おとなしく指示に従って足を止めた。",
+    "post_jp": "だが、おとなしく指示に従って足を止めた。",
+    "pre_zh": "但他还是老实地按指示停下了脚步。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "但他还是老实地按指示停下了脚步。"
+  },
+  {
+    "index": 8,
+    "name": "岸田",
+    "pre_jp": "「いきなり撃ったりしないでくれよ」",
+    "post_jp": "いきなり撃ったりしないでくれよ",
+    "pre_zh": "别突然就开枪啊",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「别突然就开枪啊」"
+  },
+  {
+    "index": 9,
+    "name": "恭介",
+    "pre_jp": "「妙な動きがあったら警告なしに撃つさ」",
+    "post_jp": "妙な動きがあったら警告なしに撃つさ",
+    "pre_zh": "有任何可疑动作我就开枪，不会再警告了",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「有任何可疑动作我就开枪，不会再警告了」"
+  },
+  {
+    "index": 10,
+    "name": "",
+    "pre_jp": "岸田は驚いたように目を見張ると、嬉しそうに薄笑いを浮かべる。",
+    "post_jp": "岸田は驚いたように目を見張ると、嬉しそうに薄笑いを浮かべる。",
+    "pre_zh": "岸田惊讶地睁大眼睛，随即露出愉悦的浅笑。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "岸田惊讶地睁大眼睛，随即露出愉悦的浅笑。"
+  },
+  {
+    "index": 11,
+    "name": "岸田",
+    "pre_jp": "「・・・わかってるじゃないか」",
+    "post_jp": "・・・わかってるじゃないか",
+    "pre_zh": "……你懂得嘛",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「……你懂得嘛」"
+  },
+  {
+    "index": 12,
+    "name": "",
+    "pre_jp": "降伏のポーズ。いきなり撃つなという言葉。この二つが、俺に躊躇させる布石になっていた。",
+    "post_jp": "降伏のポーズ。いきなり撃つなという言葉。この二つが、俺に躊躇させる布石になっていた。",
+    "pre_zh": "投降的姿势。不要突然开枪的话语。这两点成了让我犹豫的伏笔。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "投降的姿势。不要突然开枪的话语。这两点成了让我犹豫的伏笔。"
+  },
+  {
+    "index": 13,
+    "name": "",
+    "pre_jp": "もう数秒、俺が戸惑っていたままなら奴に間合いを詰められ拳銃を奪われていただろう。",
+    "post_jp": "もう数秒、俺が戸惑っていたままなら奴に間合いを詰められ拳銃を奪われていただろう。",
+    "pre_zh": "若再多迟疑几秒，那家伙就能缩短距离夺走我的手枪了吧。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "若再多迟疑几秒，那家伙就能缩短距离夺走我的手枪了吧。"
+  },
+  {
+    "index": 14,
+    "name": "",
+    "pre_jp": "撃つ。何かあれば撃つ。",
+    "post_jp": "撃つ。何かあれば撃つ。",
+    "pre_zh": "开枪。有任何异动就开枪。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "开枪。有任何异动就开枪。"
+  },
+  {
+    "index": 15,
+    "name": "",
+    "pre_jp": "俺は繰り返し自分に言い聞かせ、厳然たる態度を取り戻す。",
+    "post_jp": "俺は繰り返し自分に言い聞かせ、厳然たる態度を取り戻す。",
+    "pre_zh": "反复告诫自己，重新摆出严厉的态度。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "反复告诫自己，重新摆出严厉的态度。"
+  }
+]

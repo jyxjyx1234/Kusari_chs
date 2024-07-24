@@ -1,0 +1,200 @@
+[
+  {
+    "index": 1,
+    "name": "",
+    "pre_jp": "接着剤をよこせと珠美はしつこく食い下がってくる。が、俺はチューブをあっさりとポケットに戻した。",
+    "post_jp": "接着剤をよこせと珠美はしつこく食い下がってくる。が、俺はチューブをあっさりとポケットに戻した。",
+    "pre_zh": "珠美不依不饶地要我交出胶水。但我却轻松地把胶水管塞回了口袋。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "珠美不依不饶地要我交出胶水。但我却轻松地把胶水管塞回了口袋。"
+  },
+  {
+    "index": 2,
+    "name": "珠美",
+    "pre_jp": "「なぜ」",
+    "post_jp": "なぜ",
+    "pre_zh": "为啥",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「为啥」"
+  },
+  {
+    "index": 3,
+    "name": "",
+    "pre_jp": "珠美に渡してもどうせ無駄になるだろう。スピリタスの時もそうだったじゃないか。わずかとはいえ、火炎瓶もどきの実験に使うより飲んだ方がましだった。",
+    "post_jp": "珠美に渡してもどうせ無駄になるだろう。スピリタスの時もそうだったじゃないか。わずかとはいえ、火炎瓶もどきの実験に使うより飲んだ方がましだった。",
+    "pre_zh": "给珠美也只会白白浪费掉吧。上次的酒精不就是这样吗。虽然只有一点，但比起用来做燃烧瓶实验，喝掉反而更好。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "给珠美也只会白白浪费掉吧。上次的酒精不就是这样吗。虽然只有一点，但比起用来做燃烧瓶实验，喝掉反而更好。"
+  },
+  {
+    "index": 4,
+    "name": "",
+    "pre_jp": "だいたい、珠美は蒸留から始めようしていたのだから問題外だ。役立たずという点では今回も大差ないだろう。",
+    "post_jp": "だいたい、珠美は蒸留から始めようしていたのだから問題外だ。役立たずという点では今回も大差ないだろう。",
+    "pre_zh": "再说，珠美竟然想从蒸馏开始，简直离谱。这次在无用程度上恐怕也差不多吧。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "再说，珠美竟然想从蒸馏开始，简直离谱。这次在无用程度上恐怕也差不多吧。"
+  },
+  {
+    "index": 5,
+    "name": "珠美",
+    "pre_jp": "「嫌か？」",
+    "post_jp": "嫌か？",
+    "pre_zh": "不乐意？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「不乐意？」"
+  },
+  {
+    "index": 6,
+    "name": "恭介",
+    "pre_jp": "「んー・・・」",
+    "post_jp": "んー・・・",
+    "pre_zh": "嗯···",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯···」"
+  },
+  {
+    "index": 7,
+    "name": "珠美",
+    "pre_jp": "「嫌なのか？」",
+    "post_jp": "嫌なのか？",
+    "pre_zh": "你不乐意吗？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「你不乐意吗？」"
+  },
+  {
+    "index": 8,
+    "name": "恭介",
+    "pre_jp": "「うーん・・・」",
+    "post_jp": "うーん・・・",
+    "pre_zh": "唔···",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「唔···」"
+  },
+  {
+    "index": 9,
+    "name": "珠美",
+    "pre_jp": "「どうしても嫌か？」",
+    "post_jp": "どうしても嫌か？",
+    "pre_zh": "你真的那么不愿意吗？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「你真的那么不愿意吗？」"
+  },
+  {
+    "index": 10,
+    "name": "恭介",
+    "pre_jp": "「あー・・・うーん・・・」",
+    "post_jp": "あー・・・うーん・・・",
+    "pre_zh": "啊···嗯···",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「啊···嗯···」"
+  },
+  {
+    "index": 11,
+    "name": "珠美",
+    "pre_jp": "「嫌なんだろ？」",
+    "post_jp": "嫌なんだろ？",
+    "pre_zh": "你是不愿意吧？",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「你是不愿意吧？」"
+  },
+  {
+    "index": 12,
+    "name": "恭介",
+    "pre_jp": "「まぁ、ぶっちゃけ」",
+    "post_jp": "まぁ、ぶっちゃけ",
+    "pre_zh": "嗯，说实话",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「嗯，说实话」"
+  },
+  {
+    "index": 13,
+    "name": "珠美",
+    "pre_jp": "「・・・・・・・・・」",
+    "post_jp": "・・・・・・・・・",
+    "pre_zh": "········",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「········」"
+  },
+  {
+    "index": 14,
+    "name": "恭介",
+    "pre_jp": "「・・・・・・・・・」",
+    "post_jp": "・・・・・・・・・",
+    "pre_zh": "········",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「········」"
+  },
+  {
+    "index": 15,
+    "name": "珠美",
+    "pre_jp": "「ははははは〜」",
+    "post_jp": "ははははは〜",
+    "pre_zh": "哈哈哈哈哈~",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「哈哈哈哈哈～」"
+  },
+  {
+    "index": 16,
+    "name": "恭介",
+    "pre_jp": "「うはははは〜」",
+    "post_jp": "うはははは〜",
+    "pre_zh": "呜哈哈哈哈~",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「呜哈哈哈哈～」"
+  },
+  {
+    "index": 17,
+    "name": "珠美",
+    "pre_jp": "「でーーーてーーーけーーー！！！」",
+    "post_jp": "でーーーてーーーけーーー！！！",
+    "pre_zh": "滚——出——去——！！！",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "「滚——出——去——！！！」"
+  },
+  {
+    "index": 18,
+    "name": "",
+    "pre_jp": "飛んでくるお玉やフライ返しをかいくぐり、俺はグリルへと退却した。",
+    "post_jp": "飛んでくるお玉やフライ返しをかいくぐり、俺はグリルへと退却した。",
+    "pre_zh": "躲避着飞来的汤勺和铲子，退到了烤架后面。",
+    "proofread_zh": "",
+    "trans_by": "claude-3-5-sonnet-20240620",
+    "proofread_by": "",
+    "post_zh_preview": "躲避着飞来的汤勺和铲子，退到了烤架后面。"
+  }
+]
